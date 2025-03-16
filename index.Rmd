@@ -23,7 +23,7 @@ Teaching assistant: [Kelsey Ishimoto](https://cch.ucla.edu/people/kelsey-ishimot
 
 ## Organization of the site {-}
 
-Each course module in the left panel will span several lectures We will build this site over the course of the semester, uploading lecture slides as we go.
+Each course module in the left panel will span several lectures. We will build this site over the course of the semester, uploading lecture slides as we go.
 
 ## Learning objectives {-}
 

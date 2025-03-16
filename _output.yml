@@ -5,4 +5,4 @@ bookdown::gitbook:
       before: |
         <li><a href="./">Causal Inference</a></li>
       after: |
-        <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
+        <li><a href="https://www.falcobargaglistoffi.com/" target="blank">Instructor: Falco J. Bargagli-Stoffi</a></li>
