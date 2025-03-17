@@ -37,7 +37,7 @@ Selected chapters from the book list below. Articles in (bio)statistical and eco
 
 > Imbens, G.W., and D.B. Rubin. 2015. [**Causal Inference for Statistics, Social, and Biomedical Sciences**](https://www.cambridge.org/core/books/causal-inference-for-statistics-social-and-biomedical-sciences/71126BE90C58F1A431FE9B2DD07938AB) Cambridge: Cambridge University Press.
 >
-> Ding, P. 2023. [**A First Course in Causal Inference**](https://www.routledge.com/A-First-Course-in-Causal-Inference/Ding/p/book/9781032364322) New York: Routledge.
+> Ding, P. 2023. [**A First Course in Causal Inference**](https://www.routledge.com/A-First-Course-in-Causal-Inference/Ding/p/book/9781032758626) New York: Routledge.
 >
 > Pearl, J. 2009. [**Causality**](https://www.cambridge.org/core/books/causality/B0046844FAE10CBF274D4ACBDAEB5F5B) Cambridge: Cambridge University Press.
 
