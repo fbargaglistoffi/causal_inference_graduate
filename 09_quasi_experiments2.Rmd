@@ -1,3 +1,3 @@
 # Quasi Experiments: Difference-in-Differences, Synthetic Controls and Beyond
 
-> Week 9 [**Slides**](assets/slides/week1_2025.pdf)
+> Week 9 [**Slides**](https://drive.google.com/drive/folders/14Iymvk2FlZqVsWrtbDLmwSzR5aNS-Mcg?usp=sharing)

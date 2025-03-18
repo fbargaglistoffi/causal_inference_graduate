@@ -27,7 +27,7 @@ Each course module in the left panel will span several lectures. We will build t
 
 ## Learning objectives {-}
 
-> [**Syllabus**](assets/syllabus/syllabus_2025.pdf)
+> [**Syllabus**](https://drive.google.com/file/d/1ca24sjKu307y0hSZwuzfxLcQSA_OjiWl/view?usp=sharing)
 
 This course aims to introduce the key concepts and state-of-the-art methods for causal inference from randomized experiments and observational studies. We will first introduce the basic concepts of the potential outcome framework (with a particular focus on the essential role of the treatment assignment mechanism) and the causal graphical model approach. Then, we will cover different situations corresponding to different assumptions concerning the assignment mechanism. We will discuss the design and analysis of experiments and how to make inference under different modes, including design (randomization)-based, frequentist, and Bayesian. We will cover the design and analysis of observational studies with regular assignment mechanisms where the unconfoundedness assumption is assumed to hold. We will introduce irregular assignment mechanisms, discuss strategies for dealing with experimental studies with broken randomizations, bridge with instrumental variable methods, and introduce the principal stratification and mediation frameworks. We will cover heterogeneous treatment effects and causal machine learning approaches to causal heterogeneity. We will explore quasi-experiments through the lens of the regression discontinuity design approach. Finally, we will delve into causal inference with panel data, examining the techniques and strategies used to establish cause-and-effect relationships in temporal datasets.
 
@@ -41,17 +41,9 @@ Selected chapters from the book list below. Articles in (bio)statistical and eco
 >
 > Pearl, J. 2009. [**Causality**](https://www.cambridge.org/core/books/causality/B0046844FAE10CBF274D4ACBDAEB5F5B) Cambridge: Cambridge University Press.
 
-## Course Assessment {-}
 
-There will be 3 take-home assignments (simulation and real data exercises) and a final project. Final grading will be based on the 3 assignments (15% each), final essay (45%), and participation (10%).
+## Acknowledgments {-}
 
-## Large Language Models Policy {-}
+Special thanks to Prof. [Fabrizia Mealli](https://sites.google.com/unifi.it/fabriziamealli) and Prof. [Davide Viviano](https://dviviano.github.io/) for their invaluable help in preparing this course.
 
-The usage of large language models (LLMs) in this course is possible—even if not recommended—following the guidelines below:
-
-- You must use LLM tools in a way that helps you learn, not hampers learning. Remember that these are tools to assist you, not a replacement for your own learning of the material, critical thinking, and writing.
-- The only acceptable use of LLMs on assignments is for proofreading. This should only be for simple grammar checks, not extensive rewriting.
-- It is acceptable to use LLMs to provide you with other explanations of concepts or organize your notes, and there is no need to disclose these. However, if the LLM gives you incorrect information and you use that incorrect information on an assignment, you are the one who will be held accountable.
-- Be transparent: if you used an LLM for proofreading, you must acknowledge that. We expect that you will include a short paragraph at the end of the assignment or in the final report explaining which LLM tool you used, what you used it for, and why.
-- If artificial intelligence tools are used in nefarious or unacknowledged ways, you may be subject to academic misconduct policies (see: https://www.deanofstudents.ucla.edu/academic-integrity).
 
