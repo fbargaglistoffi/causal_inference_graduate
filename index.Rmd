@@ -21,9 +21,7 @@ Instructor: [Falco J. Bargagli-Stoffi](https://www.falcobargaglistoffi.com/).
 
 Teaching assistant: [Kelsey Ishimoto](https://cch.ucla.edu/people/kelsey-ishimoto/).
 
-## Organization of the site {-}
-
-Each course module in the left panel will span several lectures. We will build this site over the course of the semester, uploading lecture slides as we go.
+Each course module in the left panel will span several lectures. We will build this website over the course of the quarter, uploading lecture slides as we go.
 
 ## Learning objectives {-}
 
