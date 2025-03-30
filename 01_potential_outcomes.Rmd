@@ -2,6 +2,20 @@
 
 > Week 1 [**Slides**](https://drive.google.com/file/d/1ujOsEenrQy1sjIX4Zt_CfAqeF0o-KfY-/view?usp=sharing)
 
+> Chapters 1 and 3: Imbens, G.W., and D.B. Rubin. 2015. [**Causal Inference for Statistics, Social, and Biomedical Sciences**](https://www.cambridge.org/core/books/causal-inference-for-statistics-social-and-biomedical-sciences/71126BE90C58F1A431FE9B2DD07938AB) Cambridge: Cambridge University Press.
+
+> Reading 1 [**Potential Outcomes Review Paper**](https://hdsr.mitpress.mit.edu/pub/hdzphsk6/release/5)
+
+> Reading 2 [**Neyman's Seminal Paper**](https://projecteuclid.org/journals/statistical-science/volume-5/issue-4/On-the-Application-of-Probability-Theory-to-Agricultural-Experiments-Essay/10.1214/ss/1177012031.full)
+
+> Reading 3 [**Rubin's Seminal Paper**](https://psycnet.apa.org/record/1975-06502-001?doi=1)
+
+> Reading 4 [**Holland's Review Paper**](https://www.tandfonline.com/doi/abs/10.1080/01621459.1986.10478354)
+
+> Reading 5[**Hernan's Review paper**](https://www.sciencedirect.com/science/article/abs/pii/S1047279716302800?via%3Dihub)
+
+
+
 
 
 
