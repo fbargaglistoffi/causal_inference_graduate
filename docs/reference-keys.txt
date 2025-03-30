@@ -1,6 +1,6 @@
 foundations-potential-outcomes
-foundations-causal-graphs
 randomized-control-trials
+foundations-causal-graphs
 observational-studies-under-unconfoundedness
 observational-studies-with-violations-of-unconfoundedness
 irregular-assignment-mechanisms
