@@ -1,20 +1,40 @@
 # Foundations: Potential Outcomes
 
-> Week 1 [**Slides**](https://drive.google.com/file/d/1ujOsEenrQy1sjIX4Zt_CfAqeF0o-KfY-/view?usp=sharing)
+> ## Class material
+> Slides: [**Week 1**](https://drive.google.com/file/d/1ujOsEenrQy1sjIX4Zt_CfAqeF0o-KfY-/view?usp=sharing)
 
-> Chapters 1 and 3: Imbens, G.W., and D.B. Rubin. 2015. [**Causal Inference for Statistics, Social, and Biomedical Sciences**](https://www.cambridge.org/core/books/causal-inference-for-statistics-social-and-biomedical-sciences/71126BE90C58F1A431FE9B2DD07938AB) Cambridge: Cambridge University Press.
+> ## Textbook reading 
+> [**Chapters 1 and 3 of Imbens and Rubin (2015)**](https://www.cambridge.org/core/books/causal-inference-for-statistics-social-and-biomedical-sciences/71126BE90C58F1A431FE9B2DD07938AB)
 
-> Reading 1 [**Potential Outcomes Review Paper**](https://hdsr.mitpress.mit.edu/pub/hdzphsk6/release/5)
+> ### Review papers on the Potential Outcomes approach
+>
+> [**Holland, P. (1986)**](https://www.jstor.org/stable/2289064) "Statistics and Causal Inference" (with discussion), Journal of the American Statistical Association, 81:945-970.
+> - [D.B. Rubin discussion](https://www.jstor.org/stable/2289065)
+> - [D.R. Cox discussion](https://www.jstor.org/stable/2289066)
+> - [C. Glymour discussion](https://www.jstor.org/stable/2289067)
+> - [C. Granger discussion](https://www.jstor.org/stable/2289068)
+> - [P. Holland rejoinder](https://www.jstor.org/stable/2289069)
+>
+> [**Rosenbaum, P.R. (1995)**](https://www.jstor.org/stable/2337336) "Discussion of 'Causal diagrams for empirical research' by J. Pearl," Biometrika, 82: 698-699.
+>
+> [**Little, R.J.A., Rubin, D.B. (2000)**](http://www.annualreviews.org/doi/full/10.1146/annurev.publhealth.21.1.121) "Causal Effects in Clinical and Epidemiological Studies via Potential Outcomes: Concepts and Analytical Approaches," Annual Review of Public Health, 21:121-145.
+>
+> [**Rubin, D.B. (2005)**](https://www.jstor.org/stable/27590541) "Causal inference using potential outcomes: Design, modeling, decisions," Journal of the American Statistical Association, 100, 322-331.
+>
+> [**Hernan, MA (2016)**](https://www.sciencedirect.com/science/article/abs/pii/S1047279716302800?via%3Dihub) "Does Water Kill?", Annals of Epidemiology, 26(10)
+>
+> [**Dominici F, Bargagli-Stoffi FJ, Mealli F (2021)**](https://hdsr.mitpress.mit.edu/pub/hdzphsk6/release/5)"From Controlled to Undisciplined Data: Estimating Causal Effects in the Era of Data Science Using a Potential Outcome Framework, Harvard Data Science Review, 3(3).
 
-> Reading 2 [**Neyman's Seminal Paper**](https://projecteuclid.org/journals/statistical-science/volume-5/issue-4/On-the-Application-of-Probability-Theory-to-Agricultural-Experiments-Essay/10.1214/ss/1177012031.full)
-
-> Reading 3 [**Rubin's Seminal Paper**](https://psycnet.apa.org/record/1975-06502-001?doi=1)
-
-> Reading 4 [**Holland's Review Paper**](https://www.tandfonline.com/doi/abs/10.1080/01621459.1986.10478354)
-
-> Reading 5[**Hernan's Review paper**](https://www.sciencedirect.com/science/article/abs/pii/S1047279716302800?via%3Dihub)
-
-
+> ### Potential Outcomes approach: Seminal papers
+>
+> [**Neyman, J. (1923)**](https://www.jstor.org/stable/2245382) "On the Application of Probability Theory to Agricultural Experiments. Essay on Principles. Section 9." (translated and edited by D.M. Dabrowska and T.P. Speed, with discussion), in Statistical Science (1990), 5:463-472.
+> - [Introduction by T.P. Speed, Editor, Statistical Science](https://www.jstor.org/stable/2245381)
+>
+> [**Rubin, D.B. (1974)**](https://www.semanticscholar.org/paper/Estimating-causal-effects-of-treatments-in-and-Rubin/22e2990590524459ec9b59ccac6ce71e3b6a) "Estimating Causal Effects of Treatments in Randomized and Nonrandomized Studies," Journal of Educational Psychology, 1974; 66: 688-701. [open access]
+>
+> [**Rubin, D.B. (1978)**](https://www.jstor.org/stable/2958688) "Bayesian Inference for Causal Effects: The Role of Randomization," Annals of Statistics, 6:34-58.
+>
+> [**Rubin, D.B. (1990)**](https://www.jstor.org/stable/2245383) "Comment: Neyman (1923) and Causal Inference in Experiments and Observational Studies," Statistical Science, 5: 472-480.
 
 
 
