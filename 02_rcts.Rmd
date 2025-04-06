@@ -8,7 +8,7 @@
 >
 > [**Chapters 4 -- 11 of Imbens and Rubin (2015)**](https://www.cambridge.org/core/books/causal-inference-for-statistics-social-and-biomedical-sciences/71126BE90C58F1A431FE9B2DD07938AB)
 >
-> [**Chapters 3,4, 12 of Gerber and Green (2012)**](https://www.cambridge.org/core/books/field-experiments/4BD64FB1061123BE9B1DAD66B5CAF19B) 
+> [**Chapters 3,4, 12 of Gerber and Green (2012)**](https://wwnorton.com/books/9780393979954) 
 >
 > [**Chapters 3--9 of Ding (2023)**](https://www.routledge.com/A-First-Course-in-Causal-Inference/Ding/p/book/9781032758626)
 
@@ -25,10 +25,9 @@
 >
 > [**Bugni, F.A., Canay, I.A., Shaikh, A.M. (2018)**](https://www.tandfonline.com/doi/full/10.1080/01621459.2017.1375934) "Inference under Covariate-Adaptive Randomization," *Journal of the American Statistical Association*, 113(524): 1784-1796.
 >
-> [**Li, X., Ding, P. (2020)**](https://www.tandfonline.com/doi/full/10.1080/01621459.2019.1635485) "Rerandomization and Regression Adjustment," *Journal of the American Statistical Association*, 115(532): 2076-2088.
+> [**Li, X., Ding, P. (2020)**](https://academic.oup.com/jrsssb/article/82/1/241/7056044) "Rerandomization and Regression Adjustment," *Journal of the Royal Statistical Society: Series B*, 82(1): 241-260.
 >
-> [**Bai, Y. (2022)**](https://www.aeaweb.org/articles?id=10.1257/aer.20201228) "Optimality of Matched-Pair Designs in Randomized Controlled Trials," *American Economic Review*, 112(5): 1631-1670.
+> [**Bai, Y. (2022)**](https://www.aeaweb.org/articles?id=10.1257/aer.20201856) "Optimality of Matched-Pair Designs in Randomized Controlled Trials," *American Economic Review*, 112(5): 1631-1670.
 >
-> [**Tabord-Meehan, M. (2022)**](https://academic.oup.com/restud/article/89/2/741/6165007) "Stratification Trees for Adaptive Randomization in Randomized Controlled Trials," *The Review of Economic Studies*, 89(2): 741-781.
->
-> [**Cyntrynbaum, J. (2023)**](https://joshuacytrynbaum.com/research) "Balancing, Regression, and Covariate Adjustment in Randomized Experiments," Unpublished manuscript.
+> [**Tabord-Meehan, M. (2022)**](https://academic.oup.com/restud/article-abstract/90/5/2646/6931814?redirectedFrom=fulltext&login=false) "Stratification Trees for Adaptive Randomization in Randomized Controlled Trials," *The Review of Economic Studies*, 89(2): 741-781.
+
