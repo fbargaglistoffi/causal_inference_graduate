@@ -1,6 +1,7 @@
 # Foundations: Potential Outcomes
 
-> ## Class material
+> ## Class materials
+>
 > Slides: [**Module 1**](https://drive.google.com/file/d/1ujOsEenrQy1sjIX4Zt_CfAqeF0o-KfY-/view?usp=sharing)
 >
 > Recording: [**Module 1, Part 1.1**](https://drive.google.com/file/d/14yxdT8so1w2LQV2pwoGm1ys3Ek5yuLET/view?usp=sharing)
@@ -33,7 +34,7 @@
 >
 > [**Dominici F, Bargagli-Stoffi FJ, Mealli F (2021)**](https://hdsr.mitpress.mit.edu/pub/hdzphsk6/release/5)"From Controlled to Undisciplined Data: Estimating Causal Effects in the Era of Data Science Using a Potential Outcome Framework, Harvard Data Science Review, 3(3).
 
-> ### Potential Outcomes approach: Seminal papers
+> ### Seminal papers on the Potential Outcomes approach
 >
 > [**Neyman, J. (1923)**](https://www.jstor.org/stable/2245382) "On the Application of Probability Theory to Agricultural Experiments. Essay on Principles. Section 9." (translated and edited by D.M. Dabrowska and T.P. Speed, with discussion), in Statistical Science (1990), 5:463-472.
 > - [Introduction by T.P. Speed, Editor, Statistical Science](https://www.jstor.org/stable/2245381)

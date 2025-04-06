@@ -1,5 +1,7 @@
 # Randomization and Experiments
 
+> ## Class materials
+>
 > Week 2 [**Slides**](https://drive.google.com/file/d/1lseBc7nuJOFFTBKwjDdK7OLf0CLr3_10/view?usp=sharing)
 
 > ## Textbook reading 
@@ -10,7 +12,7 @@
 > [**Chapters 3--9 of Ding (2023)**](https://www.routledge.com/A-First-Course-in-Causal-Inference/Ding/p/book/9781032758626)
 
 
-> ### Randomized Control Trials: Additional Readings
+> ### Additional Readings
 >
 > [**Imai, K., King, G., Stuart, E.A. (2008)**](https://www.jstor.org/stable/30130768) "Misunderstandings between Experimentalists and Observationalists about Causal Inference," *Journal of the Royal Statistical Society, Series A (Statistics in Society)*, 171(2): 481-502.
 >
