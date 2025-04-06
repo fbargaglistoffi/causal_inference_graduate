@@ -1,3 +1,31 @@
-# Randomized Control Trials
+# Randomization and Experiments
 
-> Week 2 [**Slides**](https://drive.google.com/drive/folders/14Iymvk2FlZqVsWrtbDLmwSzR5aNS-Mcg?usp=sharing)
+> Week 2 [**Slides**](https://drive.google.com/file/d/1lseBc7nuJOFFTBKwjDdK7OLf0CLr3_10/view?usp=sharing)
+
+> ## Textbook reading 
+> [**Chapters 4 -- 11 of Imbens and Rubin (2015)**](https://www.cambridge.org/core/books/causal-inference-for-statistics-social-and-biomedical-sciences/71126BE90C58F1A431FE9B2DD07938AB)
+>
+> [**Chapters 3,4, 12 of Gerber and Green (2012)**](https://www.cambridge.org/core/books/field-experiments/4BD64FB1061123BE9B1DAD66B5CAF19B) 
+>
+> [**Chapters 3--9 of Ding (2023)**](https://www.routledge.com/A-First-Course-in-Causal-Inference/Ding/p/book/9781032758626)
+
+
+> ### Randomized Control Trials: Additional Readings
+>
+> [**Imai, K., King, G., Stuart, E.A. (2008)**](https://www.jstor.org/stable/30130768) "Misunderstandings between Experimentalists and Observationalists about Causal Inference," *Journal of the Royal Statistical Society, Series A (Statistics in Society)*, 171(2): 481-502.
+>
+> [**Freedman, D.A. (2008)**](https://www.sciencedirect.com/science/article/pii/S019688580700005X) "On Regression Adjustments to Experimental Data," *Advances in Applied Mathematics*, 30(6):180-193.
+>
+> [**Freedman, D.A. (2008)**](https://www.jstor.org/stable/30244182) "On Regression Adjustments in Experiments with Several Treatments," *Annals of Applied Statistics*, 2(1): 176-196.
+>
+> [**Lin, W. (2012)**](https://www.jstor.org/stable/23566512) "Agnostic Notes on Regression Adjustments to Experimental Data: Reexamining Freedman's Critique," *Annals of Applied Statistics*, 7(1): 295-318.
+>
+> [**Bugni, F.A., Canay, I.A., Shaikh, A.M. (2018)**](https://www.tandfonline.com/doi/full/10.1080/01621459.2017.1375934) "Inference under Covariate-Adaptive Randomization," *Journal of the American Statistical Association*, 113(524): 1784-1796.
+>
+> [**Li, X., Ding, P. (2020)**](https://www.tandfonline.com/doi/full/10.1080/01621459.2019.1635485) "Rerandomization and Regression Adjustment," *Journal of the American Statistical Association*, 115(532): 2076-2088.
+>
+> [**Bai, Y. (2022)**](https://www.aeaweb.org/articles?id=10.1257/aer.20201228) "Optimality of Matched-Pair Designs in Randomized Controlled Trials," *American Economic Review*, 112(5): 1631-1670.
+>
+> [**Tabord-Meehan, M. (2022)**](https://academic.oup.com/restud/article/89/2/741/6165007) "Stratification Trees for Adaptive Randomization in Randomized Controlled Trials," *The Review of Economic Studies*, 89(2): 741-781.
+>
+> [**Cyntrynbaum, J. (2023)**](https://joshuacytrynbaum.com/research) "Balancing, Regression, and Covariate Adjustment in Randomized Experiments," Unpublished manuscript.

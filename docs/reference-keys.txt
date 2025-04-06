@@ -1,5 +1,5 @@
 foundations-potential-outcomes
-randomized-control-trials
+randomization-and-experiments
 foundations-causal-graphs
 observational-studies-under-unconfoundedness
 observational-studies-with-violations-of-unconfoundedness

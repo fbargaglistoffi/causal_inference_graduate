@@ -4,18 +4,18 @@
 
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <title>5 Observational Studies with Violations of Unconfoundedness | Causal-Inference-Graduate.knit</title>
+  <title>2 Randomization and Experiments | Causal-Inference-Graduate.knit</title>
   <meta name="description" content="A graduate course on causal inference" />
   <meta name="generator" content="bookdown 0.42 and GitBook 2.6.7" />
 
-  <meta property="og:title" content="5 Observational Studies with Violations of Unconfoundedness | Causal-Inference-Graduate.knit" />
+  <meta property="og:title" content="2 Randomization and Experiments | Causal-Inference-Graduate.knit" />
   <meta property="og:type" content="book" />
   
   <meta property="og:description" content="A graduate course on causal inference" />
   
 
   <meta name="twitter:card" content="summary" />
-  <meta name="twitter:title" content="5 Observational Studies with Violations of Unconfoundedness | Causal-Inference-Graduate.knit" />
+  <meta name="twitter:title" content="2 Randomization and Experiments | Causal-Inference-Graduate.knit" />
   
   <meta name="twitter:description" content="A graduate course on causal inference" />
   
@@ -28,8 +28,8 @@
   <meta name="apple-mobile-web-app-status-bar-style" content="black" />
   
   
-<link rel="prev" href="observational-studies-under-unconfoundedness.html"/>
-<link rel="next" href="heterogeneous-treatment-effects-and-causal-machine-learning.html"/>
+<link rel="prev" href="foundations-potential-outcomes.html"/>
+<link rel="next" href="foundations-causal-graphs.html"/>
 <script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/fuse.js@6.4.6/dist/fuse.min.js"></script>
 <link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
@@ -105,10 +105,28 @@
           <div class="page-inner">
 
             <section class="normal" id="section-">
-<div id="observational-studies-with-violations-of-unconfoundedness" class="section level1 hasAnchor" number="5">
-<h1><span class="header-section-number">5</span> Observational Studies with Violations of Unconfoundedness<a href="observational-studies-with-violations-of-unconfoundedness.html#observational-studies-with-violations-of-unconfoundedness" class="anchor-section" aria-label="Anchor link to header"></a></h1>
+<div id="randomization-and-experiments" class="section level1 hasAnchor" number="2">
+<h1><span class="header-section-number">2</span> Randomization and Experiments<a href="randomization-and-experiments.html#randomization-and-experiments" class="anchor-section" aria-label="Anchor link to header"></a></h1>
 <blockquote>
-<p>Week 5 <a href="https://drive.google.com/drive/folders/14Iymvk2FlZqVsWrtbDLmwSzR5aNS-Mcg?usp=sharing"><strong>Slides</strong></a></p>
+<p>Week 2 <a href="https://drive.google.com/file/d/1lseBc7nuJOFFTBKwjDdK7OLf0CLr3_10/view?usp=sharing"><strong>Slides</strong></a></p>
+</blockquote>
+<blockquote>
+<h2 id="textbook-reading-1" class="hasAnchor">Textbook reading<a href="randomization-and-experiments.html#textbook-reading-1" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<p><a href="https://www.cambridge.org/core/books/causal-inference-for-statistics-social-and-biomedical-sciences/71126BE90C58F1A431FE9B2DD07938AB"><strong>Chapters 4 – 11 of Imbens and Rubin (2015)</strong></a></p>
+<p><a href="https://www.cambridge.org/core/books/field-experiments/4BD64FB1061123BE9B1DAD66B5CAF19B"><strong>Chapters 3,4, 12 of Gerber and Green (2012)</strong></a></p>
+<p><a href="https://www.routledge.com/A-First-Course-in-Causal-Inference/Ding/p/book/9781032758626"><strong>Chapters 3–9 of Ding (2023)</strong></a></p>
+</blockquote>
+<blockquote>
+<h3 id="randomized-control-trials-additional-readings" class="hasAnchor">Randomized Control Trials: Additional Readings<a href="randomization-and-experiments.html#randomized-control-trials-additional-readings" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+<p><a href="https://www.jstor.org/stable/30130768"><strong>Imai, K., King, G., Stuart, E.A. (2008)</strong></a> “Misunderstandings between Experimentalists and Observationalists about Causal Inference,” <em>Journal of the Royal Statistical Society, Series A (Statistics in Society)</em>, 171(2): 481-502.</p>
+<p><a href="https://www.sciencedirect.com/science/article/pii/S019688580700005X"><strong>Freedman, D.A. (2008)</strong></a> “On Regression Adjustments to Experimental Data,” <em>Advances in Applied Mathematics</em>, 30(6):180-193.</p>
+<p><a href="https://www.jstor.org/stable/30244182"><strong>Freedman, D.A. (2008)</strong></a> “On Regression Adjustments in Experiments with Several Treatments,” <em>Annals of Applied Statistics</em>, 2(1): 176-196.</p>
+<p><a href="https://www.jstor.org/stable/23566512"><strong>Lin, W. (2012)</strong></a> “Agnostic Notes on Regression Adjustments to Experimental Data: Reexamining Freedman’s Critique,” <em>Annals of Applied Statistics</em>, 7(1): 295-318.</p>
+<p><a href="https://www.tandfonline.com/doi/full/10.1080/01621459.2017.1375934"><strong>Bugni, F.A., Canay, I.A., Shaikh, A.M. (2018)</strong></a> “Inference under Covariate-Adaptive Randomization,” <em>Journal of the American Statistical Association</em>, 113(524): 1784-1796.</p>
+<p><a href="https://www.tandfonline.com/doi/full/10.1080/01621459.2019.1635485"><strong>Li, X., Ding, P. (2020)</strong></a> “Rerandomization and Regression Adjustment,” <em>Journal of the American Statistical Association</em>, 115(532): 2076-2088.</p>
+<p><a href="https://www.aeaweb.org/articles?id=10.1257/aer.20201228"><strong>Bai, Y. (2022)</strong></a> “Optimality of Matched-Pair Designs in Randomized Controlled Trials,” <em>American Economic Review</em>, 112(5): 1631-1670.</p>
+<p><a href="https://academic.oup.com/restud/article/89/2/741/6165007"><strong>Tabord-Meehan, M. (2022)</strong></a> “Stratification Trees for Adaptive Randomization in Randomized Controlled Trials,” <em>The Review of Economic Studies</em>, 89(2): 741-781.</p>
+<p><a href="https://joshuacytrynbaum.com/research"><strong>Cyntrynbaum, J. (2023)</strong></a> “Balancing, Regression, and Covariate Adjustment in Randomized Experiments,” Unpublished manuscript.</p>
 </blockquote>
 
 </div>
@@ -117,8 +135,8 @@
           </div>
         </div>
       </div>
-<a href="observational-studies-under-unconfoundedness.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
-<a href="heterogeneous-treatment-effects-and-causal-machine-learning.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
+<a href="foundations-potential-outcomes.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
+<a href="foundations-causal-graphs.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
     </div>
   </div>
 <script src="libs/gitbook-2.6.7/js/app.min.js"></script>
@@ -149,7 +167,7 @@ gitbook.start({
     "size": 2
   },
   "edit": {
-    "link": "https://github.com/fbargaglistoffi/causal_inference_graduate/edit/main/05_observational2.Rmd",
+    "link": "https://github.com/fbargaglistoffi/causal_inference_graduate/edit/main/02_rcts.Rmd",
     "text": "Edit"
   },
   "history": {
@@ -157,7 +175,7 @@ gitbook.start({
     "text": null
   },
   "view": {
-    "link": "https://github.com/fbargaglistoffi/causal_inference_graduate/blob/main/05_observational2.Rmd",
+    "link": "https://github.com/fbargaglistoffi/causal_inference_graduate/blob/main/02_rcts.Rmd",
     "text": null
   },
   "download": null,
