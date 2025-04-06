@@ -1,12 +1,18 @@
 # Foundations: Potential Outcomes
 
 > ## Class material
-> Slides: [**Week 1**](https://drive.google.com/file/d/1ujOsEenrQy1sjIX4Zt_CfAqeF0o-KfY-/view?usp=sharing)
+> Slides: [**Module 1**](https://drive.google.com/file/d/1ujOsEenrQy1sjIX4Zt_CfAqeF0o-KfY-/view?usp=sharing)
 >
-> Recording: [**Week 1, Lecture 1**](https://drive.google.com/file/d/14yxdT8so1w2LQV2pwoGm1ys3Ek5yuLET/view?usp=sharing)
+> Recording: [**Module 1, Part 1.1**](https://drive.google.com/file/d/14yxdT8so1w2LQV2pwoGm1ys3Ek5yuLET/view?usp=sharing)
+>
+> Recording: [**Module 1, Part 2.1**](https://drive.google.com/file/d/1rUQnbOTkVk5DPu8Ghbu2W80NJ008Auyt/view?usp=sharing)
+>
+> Recording: [**Module 1, Part 3.1**](https://drive.google.com/file/d/1hsA1CZ0jpVycsNmuH0A7C5AHmlvBpOvM/view?usp=sharing)
 
 > ## Textbook reading 
 > [**Chapters 1 -- 3 of Imbens and Rubin (2015)**](https://www.cambridge.org/core/books/causal-inference-for-statistics-social-and-biomedical-sciences/71126BE90C58F1A431FE9B2DD07938AB)
+>
+> [**Chapters 1--2 of Ding (2023)**](https://www.routledge.com/A-First-Course-in-Causal-Inference/Ding/p/book/9781032758626)
 
 > ### Review papers on the Potential Outcomes approach
 >
