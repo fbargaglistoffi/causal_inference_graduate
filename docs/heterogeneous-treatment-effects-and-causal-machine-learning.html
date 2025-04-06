@@ -4,18 +4,18 @@
 
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <title>7 Heterogeneous Treatment Effects and Causal Machine Learning | Causal-Inference-Graduate.knit</title>
+  <title>6 Heterogeneous Treatment Effects and Causal Machine Learning | Causal-Inference-Graduate.knit</title>
   <meta name="description" content="A graduate course on causal inference" />
   <meta name="generator" content="bookdown 0.42 and GitBook 2.6.7" />
 
-  <meta property="og:title" content="7 Heterogeneous Treatment Effects and Causal Machine Learning | Causal-Inference-Graduate.knit" />
+  <meta property="og:title" content="6 Heterogeneous Treatment Effects and Causal Machine Learning | Causal-Inference-Graduate.knit" />
   <meta property="og:type" content="book" />
   
   <meta property="og:description" content="A graduate course on causal inference" />
   
 
   <meta name="twitter:card" content="summary" />
-  <meta name="twitter:title" content="7 Heterogeneous Treatment Effects and Causal Machine Learning | Causal-Inference-Graduate.knit" />
+  <meta name="twitter:title" content="6 Heterogeneous Treatment Effects and Causal Machine Learning | Causal-Inference-Graduate.knit" />
   
   <meta name="twitter:description" content="A graduate course on causal inference" />
   
@@ -28,8 +28,8 @@
   <meta name="apple-mobile-web-app-status-bar-style" content="black" />
   
   
-<link rel="prev" href="irregular-assignment-mechanisms.html"/>
-<link rel="next" href="quasi-experiments-regression-discontinuity-design-rdd.html"/>
+<link rel="prev" href="observational-studies-with-violations-of-unconfoundedness.html"/>
+
 <script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/fuse.js@6.4.6/dist/fuse.min.js"></script>
 <link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
@@ -85,10 +85,7 @@
 <li class="chapter" data-level="3" data-path="foundations-causal-graphs.html"><a href="foundations-causal-graphs.html"><i class="fa fa-check"></i><b>3</b> Foundations: Causal Graphs</a></li>
 <li class="chapter" data-level="4" data-path="observational-studies-under-unconfoundedness.html"><a href="observational-studies-under-unconfoundedness.html"><i class="fa fa-check"></i><b>4</b> Observational Studies Under Unconfoundedness</a></li>
 <li class="chapter" data-level="5" data-path="observational-studies-with-violations-of-unconfoundedness.html"><a href="observational-studies-with-violations-of-unconfoundedness.html"><i class="fa fa-check"></i><b>5</b> Observational Studies with Violations of Unconfoundedness</a></li>
-<li class="chapter" data-level="6" data-path="irregular-assignment-mechanisms.html"><a href="irregular-assignment-mechanisms.html"><i class="fa fa-check"></i><b>6</b> Irregular Assignment Mechanisms</a></li>
-<li class="chapter" data-level="7" data-path="heterogeneous-treatment-effects-and-causal-machine-learning.html"><a href="heterogeneous-treatment-effects-and-causal-machine-learning.html"><i class="fa fa-check"></i><b>7</b> Heterogeneous Treatment Effects and Causal Machine Learning</a></li>
-<li class="chapter" data-level="8" data-path="quasi-experiments-regression-discontinuity-design-rdd.html"><a href="quasi-experiments-regression-discontinuity-design-rdd.html"><i class="fa fa-check"></i><b>8</b> Quasi Experiments: Regression Discontinuity Design (RDD)</a></li>
-<li class="chapter" data-level="9" data-path="quasi-experiments-difference-in-differences-synthetic-controls-and-beyond.html"><a href="quasi-experiments-difference-in-differences-synthetic-controls-and-beyond.html"><i class="fa fa-check"></i><b>9</b> Quasi Experiments: Difference-in-Differences, Synthetic Controls and Beyond</a></li>
+<li class="chapter" data-level="6" data-path="heterogeneous-treatment-effects-and-causal-machine-learning.html"><a href="heterogeneous-treatment-effects-and-causal-machine-learning.html"><i class="fa fa-check"></i><b>6</b> Heterogeneous Treatment Effects and Causal Machine Learning</a></li>
 <li class="divider"></li>
 <li><a href="https://www.falcobargaglistoffi.com/" target="blank">Instructor: Falco J. Bargagli-Stoffi</a></li>
 </ul>
@@ -108,8 +105,8 @@
           <div class="page-inner">
 
             <section class="normal" id="section-">
-<div id="heterogeneous-treatment-effects-and-causal-machine-learning" class="section level1 hasAnchor" number="7">
-<h1><span class="header-section-number">7</span> Heterogeneous Treatment Effects and Causal Machine Learning<a href="heterogeneous-treatment-effects-and-causal-machine-learning.html#heterogeneous-treatment-effects-and-causal-machine-learning" class="anchor-section" aria-label="Anchor link to header"></a></h1>
+<div id="heterogeneous-treatment-effects-and-causal-machine-learning" class="section level1 hasAnchor" number="6">
+<h1><span class="header-section-number">6</span> Heterogeneous Treatment Effects and Causal Machine Learning<a href="heterogeneous-treatment-effects-and-causal-machine-learning.html#heterogeneous-treatment-effects-and-causal-machine-learning" class="anchor-section" aria-label="Anchor link to header"></a></h1>
 <blockquote>
 <p>Week 7 <a href="https://drive.google.com/drive/folders/14Iymvk2FlZqVsWrtbDLmwSzR5aNS-Mcg?usp=sharing"><strong>Slides</strong></a></p>
 </blockquote>
@@ -120,8 +117,8 @@
           </div>
         </div>
       </div>
-<a href="irregular-assignment-mechanisms.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
-<a href="quasi-experiments-regression-discontinuity-design-rdd.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
+<a href="observational-studies-with-violations-of-unconfoundedness.html" class="navigation navigation-prev navigation-unique" aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
+
     </div>
   </div>
 <script src="libs/gitbook-2.6.7/js/app.min.js"></script>
@@ -152,7 +149,7 @@ gitbook.start({
     "size": 2
   },
   "edit": {
-    "link": "https://github.com/fbargaglistoffi/causal_inference_graduate/edit/main/07_hte.Rmd",
+    "link": "https://github.com/fbargaglistoffi/causal_inference_graduate/edit/main/06_hte.Rmd",
     "text": "Edit"
   },
   "history": {
@@ -160,7 +157,7 @@ gitbook.start({
     "text": null
   },
   "view": {
-    "link": "https://github.com/fbargaglistoffi/causal_inference_graduate/blob/main/07_hte.Rmd",
+    "link": "https://github.com/fbargaglistoffi/causal_inference_graduate/blob/main/06_hte.Rmd",
     "text": null
   },
   "download": null,
