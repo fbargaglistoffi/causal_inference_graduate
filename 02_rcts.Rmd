@@ -2,9 +2,10 @@
 
 > ## Class materials
 >
-> Week 2 [**Slides**](https://drive.google.com/file/d/1lseBc7nuJOFFTBKwjDdK7OLf0CLr3_10/view?usp=sharing)
+> Slides: [**Module 2**](https://drive.google.com/file/d/1lseBc7nuJOFFTBKwjDdK7OLf0CLr3_10/view?usp=sharing)
 
-> ## Textbook reading 
+> ## Textbook reading
+>
 > [**Chapters 4 -- 11 of Imbens and Rubin (2015)**](https://www.cambridge.org/core/books/causal-inference-for-statistics-social-and-biomedical-sciences/71126BE90C58F1A431FE9B2DD07938AB)
 >
 > [**Chapters 3,4, 12 of Gerber and Green (2012)**](https://www.cambridge.org/core/books/field-experiments/4BD64FB1061123BE9B1DAD66B5CAF19B) 
