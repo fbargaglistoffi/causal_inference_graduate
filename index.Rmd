@@ -39,6 +39,10 @@ Selected chapters from the book list below. Articles in (bio)statistical and eco
 >
 > Pearl, J. 2009. [**Causality**](https://www.cambridge.org/core/books/causality/B0046844FAE10CBF274D4ACBDAEB5F5B) Cambridge: Cambridge University Press.
 
+## Assignments {-}
+
+> [**Assignment 1 - Due Monday April 14th, 4 pm**](https://drive.google.com/file/d/12n_eWn3Rwt4GU8C84YOa5DPt_kScKdtJ/view?usp=sharing) 
+
 
 ## Acknowledgments {-}
 
