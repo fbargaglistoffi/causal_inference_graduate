@@ -1,6 +1,6 @@
 # Observational Studies: Design
 
-> Module 3 [**Slides**](https://drive.google.com/drive/folders/14Iymvk2FlZqVsWrtbDLmwSzR5aNS-Mcg?usp=sharing)
+> Module 3 [**Slides**](https://drive.google.com/file/d/1DRBGHomzyqAEBdx-bCdw5UWe3G0XTtl_/view?usp=sharing)
 
 > ## Textbook reading
 >
@@ -8,7 +8,7 @@
 >
 > [**Chapters 10 -- 11 of Ding (2023)**](https://www.routledge.com/A-First-Course-in-Causal-Inference/Ding/p/book/9781032758626)
 
-> ### ### Additional Readings
+> ### Additional Readings
 >
 >[**Rosenbaum, P.R., Rubin, D.B. (1983)**](https://www.jstor.org/stable/2335942) "The Central Role of the Propensity Score in Observational Studies for Causal Effects," *Biometrika*, 70:41-55.
 >
@@ -28,4 +28,7 @@
 >
 >[**Li, F., Thomas, L.E., Li, F. (2019)**](https://watermark.silverchair.com/kwy201.pdf) "Addressing Extreme Propensity Scores via the Overlap Weights," *American Journal of Epidemiology*, 188: 250-257.
 >
->[**Stuart, E.**](http://www.biostat.jhsph.edu/~estuart/propensityscoresoftware.html) Software for implementing matching methods and propensity scores.
+
+> ### Software
+>
+>>[**Propensity score and matching**](http://www.biostat.jhsph.edu/~estuart/propensityscoresoftware.html) Software for implementing matching methods and propensity scores.

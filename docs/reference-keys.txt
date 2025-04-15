@@ -1,6 +1,7 @@
 foundations-potential-outcomes
 randomization-and-experiments
-foundations-causal-graphs
-observational-studies-under-unconfoundedness
-observational-studies-with-violations-of-unconfoundedness
+observational-studies-design
+observational-studies-analysis
+observational-studies-sensitivity
+causal-graphical-approach
 heterogeneous-treatment-effects-and-causal-machine-learning
