@@ -1,3 +1,31 @@
 # Observational Studies: Design
 
 > Module 3 [**Slides**](https://drive.google.com/drive/folders/14Iymvk2FlZqVsWrtbDLmwSzR5aNS-Mcg?usp=sharing)
+
+> ## Textbook reading
+>
+> [**Chapters 12 -- 16 of Imbens and Rubin (2015)**](https://www.cambridge.org/core/books/causal-inference-for-statistics-social-and-biomedical-sciences/71126BE90C58F1A431FE9B2DD07938AB)
+>
+> [**Chapters 10 -- 11 of Ding (2023)**](https://www.routledge.com/A-First-Course-in-Causal-Inference/Ding/p/book/9781032758626)
+
+> ### ### Additional Readings
+>
+>[**Rosenbaum, P.R., Rubin, D.B. (1983)**](https://www.jstor.org/stable/2335942) "The Central Role of the Propensity Score in Observational Studies for Causal Effects," *Biometrika*, 70:41-55.
+>
+>[**Rosenbaum, P.R., Rubin, D.B. (1984)**](https://www.jstor.org/stable/2288398) "Reducing Bias in Observational Studies Using Subclassification on the Propensity Score," *Journal of the American Statistical Association*, 79:516-524.
+>
+>[**Rubin, D.B., Thomas, N. (1996)**](https://www.jstor.org/stable/2533160) "Matching Using Estimated Propensity Scores: Relating Theory to Practice," *Biometrics*, 52:249-264.
+>
+>[**Rubin, D.B., Thomas, N. (2000)**](https://www.jstor.org/stable/2669400) "Combining Propensity Score Matching with Additional Adjustments for Prognostic Covariates," *Journal of the American Statistical Association*, 95:573-585.
+>
+>[**Leon, A.C., Hedeker, D. (2005)**](http://onlinelibrary.wiley.com/doi/10.1002/sim.2042/pdf) "A Mixed-Effects Quintile-Stratified Propensity Adjustment for Effectiveness Analysis of Ordered Categorical Doses," *Statistics in Medicine*, 24:647-658.
+>
+>[**Zanutto, E.L. (2006)**](http://www.jds-online.com/v4-1) "A Comparison of Propensity Score and Linear Regression Analysis of Complex Survey Data," *Journal of Data Science*, 4:67-91.
+>
+>[**Stuart, E.A. (2010)**](https://www.jstor.org/stable/41058994) "Matching Methods for Causal Inference: A Review and A Look Forward," *Statistical Science*, 25: 1-21.
+>
+>[**Li, F., Zaslavsky, A.M., Landrum, M.B. (2013)**](https://onlinelibrary.wiley.com/doi/epdf/10.1002/sim.5786) "Propensity Score Weighting with Multilevel Data," *Statistics in Medicine*, 32: 3373-3387.
+>
+>[**Li, F., Thomas, L.E., Li, F. (2019)**](https://watermark.silverchair.com/kwy201.pdf) "Addressing Extreme Propensity Scores via the Overlap Weights," *American Journal of Epidemiology*, 188: 250-257.
+>
+>[**Stuart, E.**](http://www.biostat.jhsph.edu/~estuart/propensityscoresoftware.html) Software for implementing matching methods and propensity scores.
