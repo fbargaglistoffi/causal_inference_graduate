@@ -4,4 +4,3 @@ observational-studies-design
 observational-studies-analysis
 observational-studies-sensitivity
 causal-graphical-approach
-heterogeneous-treatment-effects-and-causal-machine-learning
