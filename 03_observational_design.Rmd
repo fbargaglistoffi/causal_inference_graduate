@@ -11,6 +11,8 @@
 > Recording: [**Module 3, Part 3.1**](https://drive.google.com/file/d/1HLBuOelXQAtHEGnYXSY1Pf-0plTKPN86/view?usp=sharing)
 >
 > Recording: [**Module 3, Part 3.2**](https://drive.google.com/file/d/1tNYuSD1nDuRK85YvmRA-KRSDa1QLqIvI/view?usp=sharing)
+>
+> Recording: [**Module 3, Part 4**](https://drive.google.com/file/d/1L5q7xC0lI65TqSqwDVDOzJoUW2hKjNfU/view?usp=sharing)
 
 
 > ## Textbook reading
@@ -42,4 +44,4 @@
 
 > ### Software
 >
->>[**Propensity score and matching**](http://www.biostat.jhsph.edu/~estuart/propensityscoresoftware.html) Software for implementing matching methods and propensity scores.
+>[**Propensity score and matching**](http://www.biostat.jhsph.edu/~estuart/propensityscoresoftware.html) Software for implementing matching methods and propensity scores.
