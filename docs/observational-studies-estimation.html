@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang="" xml:lang="">
+<head>
+
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <title>4 Observational Studies: Estimation | Causal-Inference-Graduate.knit</title>
+  <meta name="description" content="A graduate course on causal inference" />
+  <meta name="generator" content="bookdown 0.42 and GitBook 2.6.7" />
+
+  <meta property="og:title" content="4 Observational Studies: Estimation | Causal-Inference-Graduate.knit" />
+  <meta property="og:type" content="book" />
+  
+  <meta property="og:description" content="A graduate course on causal inference" />
+  
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content="4 Observational Studies: Estimation | Causal-Inference-Graduate.knit" />
+  
+  <meta name="twitter:description" content="A graduate course on causal inference" />
+  
+
+
+
+
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+  
+  
+<link rel="prev" href="observational-studies-design.html"/>
+<link rel="next" href="observational-studies-sensitivity.html"/>
+<script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/fuse.js@6.4.6/dist/fuse.min.js"></script>
+<link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-bookdown.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-highlight.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-search.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-fontsettings.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-clipboard.css" rel="stylesheet" />
+
+
+
+
+
+
+
+
+<link href="libs/anchor-sections-1.1.0/anchor-sections.css" rel="stylesheet" />
+<link href="libs/anchor-sections-1.1.0/anchor-sections-hash.css" rel="stylesheet" />
+<script src="libs/anchor-sections-1.1.0/anchor-sections.js"></script>
+
+
+
+<style type="text/css">
+  
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+</style>
+
+<link rel="stylesheet" href="style.css" type="text/css" />
+</head>
+
+<body>
+
+
+
+  <div class="book without-animation with-summary font-size-2 font-family-1" data-basepath=".">
+
+    <div class="book-summary">
+      <nav role="navigation">
+
+<ul class="summary">
+<li><a href="./">Causal Inference</a></li>
+
+<li class="divider"></li>
+<li class="chapter" data-level="" data-path="index.html"><a href="index.html"><i class="fa fa-check"></i>Welcome</a>
+<ul>
+<li class="chapter" data-level="" data-path="index.html"><a href="index.html#learning-objectives"><i class="fa fa-check"></i>Learning objectives</a></li>
+<li class="chapter" data-level="" data-path="index.html"><a href="index.html#teaching-material"><i class="fa fa-check"></i>Teaching Material</a></li>
+<li class="chapter" data-level="" data-path="index.html"><a href="index.html#assignments"><i class="fa fa-check"></i>Assignments</a></li>
+<li class="chapter" data-level="" data-path="index.html"><a href="index.html#office-hours"><i class="fa fa-check"></i>Office Hours</a></li>
+<li class="chapter" data-level="" data-path="index.html"><a href="index.html#acknowledgments"><i class="fa fa-check"></i>Acknowledgments</a></li>
+</ul></li>
+<li class="chapter" data-level="1" data-path="foundations-potential-outcomes.html"><a href="foundations-potential-outcomes.html"><i class="fa fa-check"></i><b>1</b> Foundations: Potential Outcomes</a></li>
+<li class="chapter" data-level="2" data-path="randomization-and-experiments.html"><a href="randomization-and-experiments.html"><i class="fa fa-check"></i><b>2</b> Randomization and Experiments</a></li>
+<li class="chapter" data-level="3" data-path="observational-studies-design.html"><a href="observational-studies-design.html"><i class="fa fa-check"></i><b>3</b> Observational Studies: Design</a></li>
+<li class="chapter" data-level="4" data-path="observational-studies-estimation.html"><a href="observational-studies-estimation.html"><i class="fa fa-check"></i><b>4</b> Observational Studies: Estimation</a></li>
+<li class="chapter" data-level="5" data-path="observational-studies-sensitivity.html"><a href="observational-studies-sensitivity.html"><i class="fa fa-check"></i><b>5</b> Observational Studies: Sensitivity</a></li>
+<li class="chapter" data-level="6" data-path="causal-graphical-approach.html"><a href="causal-graphical-approach.html"><i class="fa fa-check"></i><b>6</b> Causal Graphical Approach</a></li>
+<li class="divider"></li>
+<li><a href="https://www.falcobargaglistoffi.com/" target="blank">Instructor: Falco J. Bargagli-Stoffi</a></li>
+</ul>
+
+      </nav>
+    </div>
+
+    <div class="book-body">
+      <div class="body-inner">
+        <div class="book-header" role="navigation">
+          <h1>
+            <i class="fa fa-circle-o-notch fa-spin"></i><a href="./"></a>
+          </h1>
+        </div>
+
+        <div class="page-wrapper" tabindex="-1" role="main">
+          <div class="page-inner">
+
+            <section class="normal" id="section-">
+<div id="observational-studies-estimation" class="section level1 hasAnchor" number="4">
+<h1><span class="header-section-number">4</span> Observational Studies: Estimation<a href="observational-studies-estimation.html#observational-studies-estimation" class="anchor-section" aria-label="Anchor link to header"></a></h1>
+<blockquote>
+<p>Module 4 <a href="https://drive.google.com/file/d/1VbXy7nxK3pkMqtwGo9RcoKzLKM55eh-k/view?usp=sharing"><strong>Slides</strong></a></p>
+</blockquote>
+<blockquote>
+<h2 id="textbook-reading-3" class="hasAnchor">Textbook Reading<a href="observational-studies-estimation.html#textbook-reading-3" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+</blockquote>
+<blockquote>
+<p><a href="https://www.cambridge.org/core/books/causal-inference-for-statistics-social-and-biomedical-sciences/71126BE90C58F1A431FE9B2DD07938AB"><strong>Chapters 17-20 of Imbens and Rubin (2015)</strong></a></p>
+<p><a href="https://link.springer.com/book/10.1007/978-3-030-46405-9"><strong>Chapters 8-16 of Rosenbaum (2020)</strong></a>:</p>
+<p><a href="https://www.routledge.com/A-First-Course-in-Causal-Inference/Ding/p/book/9781032758626"><strong>Chapters 12-15 of Ding (2023)</strong></a></p>
+</blockquote>
+<blockquote>
+<h2 id="additional-readings-2" class="hasAnchor">Additional Readings<a href="observational-studies-estimation.html#additional-readings-2" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<h3 id="model-based-imputation" class="hasAnchor">Model-Based Imputation<a href="observational-studies-estimation.html#model-based-imputation" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+<p><a href="https://projecteuclid.org/journals/annals-of-statistics/volume-7/issue-1/Using-Multivariate-Matched-Sampling-and-Regression-Adjustment-to-Control-Bias/10.1214/aos/1176344552.full"><strong>Rubin, D.B. (1979)</strong></a> “Using Multivariate Matched Sampling and Regression Adjustment to Control Bias in Observational Studies,” <em>Annals of Statistics</em>, 7(1):34-58.</p>
+<p><a href="https://doi.org/10.1198/jcgs.2010.08162"><strong>Hill, J.L. (2011)</strong></a> “Bayesian Nonparametric Modeling for Causal Inference,” <em>Journal of Computational and Graphical Statistics</em>, 20(1):217-240.</p>
+<p><a href="https://doi.org/10.1111/ectj.12097"><strong>Chernozhukov, V., Chetverikov, D., Demirer, M., Duflo, E., Hansen, C., Newey, W., Robins, J. (2018)</strong></a> “Double/debiased machine learning for treatment and structural parameters,” <em>The Econometrics Journal</em>, 21(1):C1-C68.</p>
+</blockquote>
+<blockquote>
+<h3 id="blockingstratification" class="hasAnchor">Blocking/Stratification<a href="observational-studies-estimation.html#blockingstratification" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+<p><a href="https://doi.org/10.2307/3001650"><strong>Cochran, W.G. (1968)</strong></a> “The effectiveness of adjustment by subclassification in removing bias in observational studies,” <em>Biometrics</em>, 24(2):295-313.</p>
+<p><a href="https://doi.org/10.1080/00031305.1985.10479383"><strong>Rosenbaum, P.R., Rubin, D.B. (1985)</strong></a> “Constructing a Control Group Using Multivariate Matched Sampling Methods That Incorporate the Propensity Score,” <em>The American Statistician</em>, 39(1):33-38.</p>
+<p><a href="https://doi.org/10.1002/sim.1903"><strong>Lunceford, J.K., Davidian, M. (2004)</strong></a> “Stratification and weighting via the propensity score in estimation of causal treatment effects: a comparative study,” <em>Statistics in Medicine</em>, 23(19):2937-2960.</p>
+</blockquote>
+<blockquote>
+<h3 id="matching-estimators" class="hasAnchor">Matching Estimators<a href="observational-studies-estimation.html#matching-estimators" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+<p><a href="https://doi.org/10.1111/j.1468-0262.2006.00655.x"><strong>Abadie, A., Imbens, G.W. (2006)</strong></a> “Large Sample Properties of Matching Estimators for Average Treatment Effects,” <em>Econometrica</em>, 74(1):235-267.</p>
+<p><a href="https://doi.org/10.1198/jbes.2009.07333"><strong>Abadie, A., Imbens, G.W. (2011)</strong></a> “Bias-Corrected Matching Estimators for Average Treatment Effects,” <em>Journal of Business &amp; Economic Statistics</em>, 29(1):1-11.</p>
+<p><a href="https://doi.org/10.1214/09-STS313"><strong>Stuart, E.A. (2010)</strong></a> “Matching Methods for Causal Inference: A Review and a Look Forward,” <em>Statistical Science</em>, 25(1):1-21.</p>
+</blockquote>
+<blockquote>
+<h3 id="weighting-estimators" class="hasAnchor">Weighting Estimators<a href="observational-studies-estimation.html#weighting-estimators" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+<p><a href="https://doi.org/10.1111/1468-0262.00442"><strong>Hirano, K., Imbens, G.W., Ridder, G. (2003)</strong></a> “Efficient Estimation of Average Treatment Effects Using the Estimated Propensity Score,” <em>Econometrica</em>, 71(4):1161-1189.</p>
+<p><a href="https://doi.org/10.1080/01621459.1994.10476818"><strong>Robins, J.M., Rotnitzky, A., Zhao, L.P. (1994)</strong></a> “Estimation of regression coefficients when some regressors are not always observed,” <em>Journal of the American Statistical Association</em>, 89(427):846-866.</p>
+<p><a href="https://doi.org/10.1080/01621459.2016.1260466"><strong>Li, F., Morgan, K.L., Zaslavsky, A.M. (2018)</strong></a> “Balancing Covariates via Propensity Score Weighting,” <em>Journal of the American Statistical Association</em>, 113(521):390-400.</p>
+<p><a href="https://doi.org/10.1093/aje/kwy201"><strong>Li, F., Thomas, L.E., Li, F. (2019)</strong></a> “Addressing Extreme Propensity Scores via the Overlap Weights,” <em>American Journal of Epidemiology</em>, 188(1):250-257.</p>
+<p><a href="https://doi.org/10.1093/pan/mpr025"><strong>Hainmueller, J. (2012)</strong></a> “Entropy Balancing for Causal Effects: A Multivariate Reweighting Method to Produce Balanced Samples in Observational Studies,” <em>Political Analysis</em>, 20(1):25-46.</p>
+<p><a href="https://doi.org/10.1080/01621459.2013.879540"><strong>Imai, K., Ratkovic, M. (2014)</strong></a> “Covariate balancing propensity score,” <em>Journal of the Royal Statistical Society: Series B</em>, 76(1):243-263.</p>
+</blockquote>
+<blockquote>
+<h3 id="doubly-robust-approaches" class="hasAnchor">Doubly-Robust Approaches<a href="observational-studies-estimation.html#doubly-robust-approaches" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+<p><a href="https://doi.org/10.1111/j.1541-0420.2005.00377.x"><strong>Bang, H., Robins, J.M. (2005)</strong></a> “Doubly Robust Estimation in Missing Data and Causal Inference Models,” <em>Biometrics</em>, 61(4):962-973.</p>
+<p><a href="https://doi.org/10.1214/07-STS227"><strong>Kang, J.D., Schafer, J.L. (2007)</strong></a> “Demystifying Double Robustness: A Comparison of Alternative Strategies for Estimating a Population Mean from Incomplete Data,” <em>Statistical Science</em>, 22(4):523-539.</p>
+<p><a href="https://doi.org/10.1080/01621459.2019.1629882"><strong>Kennedy, E.H. (2020)</strong></a> “Optimal Doubly Robust Estimation of Heterogeneous Causal Effects,” <em>Journal of the American Statistical Association</em>, 115(532):1948-1962.</p>
+<p><a href="https://doi.org/10.1080/01621459.1995.10476493"><strong>Robins, J.M., Rotnitzky, A. (1995)</strong></a> “Semiparametric Efficiency in Multivariate Regression Models with Missing Data,” <em>Journal of the American Statistical Association</em>, 90(429):122-129.</p>
+</blockquote>
+<blockquote>
+<h2 id="software-1" class="hasAnchor">Software<a href="observational-studies-estimation.html#software-1" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<p><a href="https://cran.r-project.org/web/packages/MatchIt/index.html"><strong>MatchIt</strong></a>: R package for implementing matching methods.</p>
+<p><a href="https://cran.r-project.org/web/packages/WeightIt/index.html"><strong>WeightIt</strong></a>: R package for generating balancing weights.</p>
+<p><a href="https://cran.r-project.org/web/packages/CBPS/index.html"><strong>CBPS</strong></a>: R package for Covariate Balancing Propensity Score.</p>
+<p><a href="https://cran.r-project.org/web/packages/optweight/index.html"><strong>optweight</strong></a>: R package for optimal weighting.</p>
+<p><a href="https://cran.r-project.org/web/packages/CausalGAM/index.html"><strong>CausalGAM</strong></a>: R package for causal inference with splines and the g-computation formula.</p>
+<p><a href="https://cran.r-project.org/web/packages/BART/index.html"><strong>BART</strong></a>: R package for Bayesian Additive Regression Trees.</p>
+</blockquote>
+
+</div>
+            </section>
+
+          </div>
+        </div>
+      </div>
+<a href="observational-studies-design.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
+<a href="observational-studies-sensitivity.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
+    </div>
+  </div>
+<script src="libs/gitbook-2.6.7/js/app.min.js"></script>
+<script src="libs/gitbook-2.6.7/js/clipboard.min.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-search.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-sharing.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-fontsettings.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-bookdown.js"></script>
+<script src="libs/gitbook-2.6.7/js/jquery.highlight.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-clipboard.js"></script>
+<script>
+gitbook.require(["gitbook"], function(gitbook) {
+gitbook.start({
+  "sharing": {
+    "github": false,
+    "facebook": true,
+    "twitter": true,
+    "linkedin": false,
+    "weibo": false,
+    "instapaper": false,
+    "vk": false,
+    "whatsapp": false,
+    "all": ["facebook", "twitter", "linkedin", "weibo", "instapaper"]
+  },
+  "fontsettings": {
+    "theme": "white",
+    "family": "sans",
+    "size": 2
+  },
+  "edit": {
+    "link": "https://github.com/fbargaglistoffi/causal_inference_graduate/edit/main/04_observational_estimation.Rmd",
+    "text": "Edit"
+  },
+  "history": {
+    "link": null,
+    "text": null
+  },
+  "view": {
+    "link": "https://github.com/fbargaglistoffi/causal_inference_graduate/blob/main/04_observational_estimation.Rmd",
+    "text": null
+  },
+  "download": null,
+  "search": {
+    "engine": "fuse",
+    "options": null
+  },
+  "toc": {
+    "collapse": "subsection"
+  }
+});
+});
+</script>
+
+</body>
+
+</html>

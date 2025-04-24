@@ -1,6 +1,6 @@
 foundations-potential-outcomes
 randomization-and-experiments
 observational-studies-design
-observational-studies-analysis
+observational-studies-estimation
 observational-studies-sensitivity
 causal-graphical-approach

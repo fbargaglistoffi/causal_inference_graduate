@@ -1,0 +1,74 @@
+# Observational Studies: Estimation
+
+> Module 4 [**Slides**](https://drive.google.com/file/d/1VbXy7nxK3pkMqtwGo9RcoKzLKM55eh-k/view?usp=sharing)
+
+
+>## Textbook Reading
+
+> [**Chapters 17-20 of Imbens and Rubin (2015)**](https://www.cambridge.org/core/books/causal-inference-for-statistics-social-and-biomedical-sciences/71126BE90C58F1A431FE9B2DD07938AB)
+>
+> [**Chapters 8-16 of Rosenbaum (2020)**](https://link.springer.com/book/10.1007/978-3-030-46405-9):
+>
+> [**Chapters 12-15 of Ding (2023)**](https://www.routledge.com/A-First-Course-in-Causal-Inference/Ding/p/book/9781032758626)
+
+>## Additional Readings
+>
+>### Model-Based Imputation
+>
+> [**Hill, J.L. (2011)**](https://doi.org/10.1198/jcgs.2010.08162) "Bayesian Nonparametric Modeling for Causal Inference," *Journal of Computational and Graphical Statistics*, 20(1):217-240.
+>
+> [**Chernozhukov, V., Chetverikov, D., Demirer, M., Duflo, E., Hansen, C., Newey, W., Robins, J. (2018)**](https://doi.org/10.1111/ectj.12097) "Double/debiased machine learning for treatment and structural parameters," *The Econometrics Journal*, 21(1):C1-C68.
+
+>### Blocking/Stratification
+>
+> [**Rosenbaum, P.R., Rubin, D.B. (1985)**](https://doi.org/10.1080/00031305.1985.10479383) "Constructing a Control Group Using Multivariate Matched Sampling Methods That Incorporate the Propensity Score," *The American Statistician*, 39(1):33-38.
+>
+> [**Lunceford, J.K., Davidian, M. (2004)**](https://doi.org/10.1002/sim.1903) "Stratification and weighting via the propensity score in estimation of causal treatment effects: a comparative study," *Statistics in Medicine*, 23(19):2937-2960.
+>
+
+>### Matching Estimators
+>
+> [**Abadie, A., Imbens, G.W. (2006)**](https://doi.org/10.1111/j.1468-0262.2006.00655.x) "Large Sample Properties of Matching Estimators for Average Treatment Effects," *Econometrica*, 74(1):235-267.
+>
+> [**Abadie, A., Imbens, G.W. (2011)**](https://doi.org/10.1198/jbes.2009.07333) "Bias-Corrected Matching Estimators for Average Treatment Effects," *Journal of Business & Economic Statistics*, 29(1):1-11.
+>
+> [**Stuart, E.A. (2010)**](https://doi.org/10.1214/09-STS313) "Matching Methods for Causal Inference: A Review and a Look Forward," *Statistical Science*, 25(1):1-21.
+
+
+>### Weighting Estimators
+>
+> [**Hirano, K., Imbens, G.W., Ridder, G. (2003)**](https://doi.org/10.1111/1468-0262.00442) "Efficient Estimation of Average Treatment Effects Using the Estimated Propensity Score," *Econometrica*, 71(4):1161-1189.
+>
+> [**Robins, J.M., Rotnitzky, A., Zhao, L.P. (1994)**](https://doi.org/10.1080/01621459.1994.10476818) "Estimation of regression coefficients when some regressors are not always observed," *Journal of the American Statistical Association*, 89(427):846-866.
+>
+> [**Li, F., Morgan, K.L., Zaslavsky, A.M. (2018)**](https://doi.org/10.1080/01621459.2016.1260466) "Balancing Covariates via Propensity Score Weighting," *Journal of the American Statistical Association*, 113(521):390-400.
+>
+> [**Li, F., Thomas, L.E., Li, F. (2019)**](https://doi.org/10.1093/aje/kwy201) "Addressing Extreme Propensity Scores via the Overlap Weights," *American Journal of Epidemiology*, 188(1):250-257.
+>
+>[**Hainmueller, J. (2012)**](https://doi.org/10.1093/pan/mpr025) "Entropy Balancing for Causal Effects: A Multivariate Reweighting Method to Produce Balanced Samples in Observational Studies," *Political Analysis*, 20(1):25-46.
+>
+> [**Imai, K., Ratkovic, M. (2014)**](https://academic.oup.com/jrsssb/article/76/1/243/7075938) "Covariate balancing propensity score," *Journal of the Royal Statistical Society: Series B*, 76(1):243-263.
+
+>### Doubly-Robust Approaches
+>
+> [**Bang, H., Robins, J.M. (2005)**](https://doi.org/10.1111/j.1541-0420.2005.00377.x) "Doubly Robust Estimation in Missing Data and Causal Inference Models," *Biometrics*, 61(4):962-973.
+>
+> [**Kang, J.D., Schafer, J.L. (2007)**](https://doi.org/10.1214/07-STS227) "Demystifying Double Robustness: A Comparison of Alternative Strategies for Estimating a Population Mean from Incomplete Data," *Statistical Science*, 22(4):523-539.
+>
+> [**Kennedy, E.H. (2023)**](https://projecteuclid.org/journals/electronic-journal-of-statistics/volume-17/issue-2/Towards-optimal-doubly-robust-estimation-of-heterogeneous-causal-effects/10.1214/23-EJS2157.full) "Toward Optimal Doubly Robust Estimation of Heterogeneous Causal Effects," *Electronic Journal of Statistics*, 17 (2) 3008 - 3049.
+>
+> [**Robins, J.M., Rotnitzky, A. (1995)**](https://www.jstor.org/stable/2291135?seq=1) "Semiparametric Efficiency in Multivariate Regression Models with Missing Data," *Journal of the American Statistical Association*, 90(429):122-129.
+
+>## Software
+>
+> [**MatchIt**](https://cran.r-project.org/web/packages/MatchIt/index.html): R package for implementing matching methods.
+>
+> [**WeightIt**](https://cran.r-project.org/web/packages/WeightIt/index.html): R package for generating balancing weights.
+>
+> [**CBPS**](https://cran.r-project.org/web/packages/CBPS/index.html): R package for Covariate Balancing Propensity Score.
+>
+> [**optweight**](https://cran.r-project.org/web/packages/optweight/index.html): R package for optimal weighting.
+>
+> [**CausalGAM**](https://cran.r-project.org/web/packages/CausalGAM/index.html): R package for causal inference with splines and the g-computation formula.
+>
+> [**BART**](https://cran.r-project.org/web/packages/BART/index.html): R package for Bayesian Additive Regression Trees.
