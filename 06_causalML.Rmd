@@ -30,7 +30,7 @@
 >
 >[**Bargagli-Stoffi, F.J., Tortu, C., Forastiere, L. (2025)**](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-19/issue-1/Heterogeneous-treatment-and-spillover-effects-under-clustered-network-interference/10.1214/24-AOAS1913.short) "Heterogeneous Treatment and Spillover Effects Under Clustered Network Interference," *Annals of Applied Statistics*, 19(1):442-465. 
 
-> ### Software and Implementations
+> ### Software 
 >
 >[**grf: Generalized Random Forests**](https://github.com/grf-labs/grf) R package implementing methods from Athey & Wager papers.
 >
