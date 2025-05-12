@@ -8,7 +8,7 @@
 >
 > [**Chapters 17 -- 18 of Ding (2023)**](https://www.routledge.com/A-First-Course-in-Causal-Inference/Ding/p/book/9781032758626)
 
-> ### Additional Readings on Sensitivity Analysis
+> ### Additional Readings 
 >
 >[**Cornfield, J., Haenszel, W., Hammond, E.C., Lilienfeld, A.M., Shimkin, M.B., Wynder, E.L. (1959)**](https://academic.oup.com/jnci/article-abstract/22/1/173/900745) "Smoking and Lung Cancer: Recent Evidence and a Discussion of Some Questions," *Journal of the National Cancer Institute*, 22(1):173-203.
 >
