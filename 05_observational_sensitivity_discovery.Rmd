@@ -10,36 +10,36 @@
 
 > ### Additional Readings on Sensitivity Analysis
 >
+>[**Cornfield, J., Haenszel, W., Hammond, E.C., Lilienfeld, A.M., Shimkin, M.B., Wynder, E.L. (1959)**](https://academic.oup.com/jnci/article-abstract/22/1/173/900745) "Smoking and Lung Cancer: Recent Evidence and a Discussion of Some Questions," *Journal of the National Cancer Institute*, 22(1):173-203.
+>
+>[**Schlesselman, J.J. (1978)**](https://academic.oup.com/aje/article-abstract/108/1/3/195354) "Assessing Effects of Confounding Variables," *American Journal of Epidemiology*, 108(1):3-8.
+>
 >[**Rosenbaum, P.R., Rubin, D.B. (1983)**](https://www.jstor.org/stable/2345524) "Assessing Sensitivity to an Unobserved Binary Covariate in an Observational Study with Binary Outcome," *Journal of the Royal Statistical Society: Series B (Methodological)*, 45(2):212-218.
 >
->[**Cornfield, J., Haenszel, W., Hammond, E.C., Lilienfeld, A.M., Shimkin, M.B., Wynder, E.L. (1959)**](https://academic.oup.com/jnci/article-abstract/22/1/173/900745) "Smoking and Lung Cancer: Recent Evidence and a Discussion of Some Questions," *Journal of the National Cancer Institute*, 22(1):173-203.
+>[**Manski, C.F. (1990)**](https://www.jstor.org/stable/2006592) "Nonparametric Bounds on Treatment Effects," *American Economic Review*, 80(2):319-323.
+>
+>[**Flanders, W.D., Khoury, M.J. (1990)**](https://journals.lww.com/epidem/abstract/1990/05000/indirect_assessment_of_confounding__graphic.10.aspx) "Indirect Assessment of Confounding: Graphic Description and Limits on Effect of Adjusting for Covariates," *Epidemiology*, 1(3):239-246.
+>
+>[**Lin, D.Y., Psaty B.M., Kronmal, R.A. (1998)**](https://pubmed.ncbi.nlm.nih.gov/9750244/) "Assessing the Sensitivity of Regression Results to Unmeasured Confounders in Observational Studies," *Biometrics*, 54(3):948-963.
 >
 >[**Rosenbaum, P.R. (2002)**](https://link.springer.com/book/10.1007/978-1-4757-3692-2) "Observational Studies," *Springer Series in Statistics*, Springer-Verlag, New York.
 >
->[**Schlesselman, J.J. (1978)**](https://academic.oup.com/aje/article-abstract/108/1/3/195354) "Assessing Effects of Confounding Variables," *American Journal of Epidemiology*, 108(1):3-8.
+>[**Imbens, G.W. (2003)**](https://www.aeaweb.org/articles?id=10.1257/000282803321946921) "Sensitivity to Exogeneity Assumptions in Program Evaluation," *American Economic Review*, 93(2):126-132.
+>
+>[**MacLehose, R.F., Kaufman, S., Kaufman, J.S., Poole, C. (2005)**](https://www.jstor.org/stable/20486093?seq=1) "Bounding Causal Effects Under Uncontrolled Confounding Using Counterfactuals," *Epidemiology*, 16(5):548-555.
+>
+>[**Ichino, A., Mealli, F., Nannicini, T. (2008)**](https://onlinelibrary.wiley.com/doi/abs/10.1002/jae.998) "From Temporary Help Jobs to Permanent Employment: What Can We Learn from Matching Estimators and their Sensitivity?," *Journal of Applied Econometrics*, 23(3):305-327.
 >
 >[**Ding, P., VanderWeele, T.J. (2014)**](https://academic.oup.com/biomet/article-abstract/101/4/971/1775369) "Generalized Cornfield Conditions for the Risk Difference," *Biometrika*, 101(4):971-977.
 >
 >[**Ding, P., VanderWeele, T.J. (2016)**](https://journals.lww.com/epidem/Fulltext/2016/05000/Sensitivity_Analysis_Without_Assumptions.11.aspx) "Sensitivity Analysis Without Assumptions," *Epidemiology*, 27(3):368-377.
 >
->[**VanderWeele, T.J., Ding, P. (2017)**](https://www.acpjournals.org/doi/10.7326/M16-2607) "Sensitivity Analysis in Observational Research: Introducing the E-value," *Annals of Internal Medicine*, 167(4):268-274.
->
->[**Ichino, A., Mealli, F., Nannicini, T. (2008)**](https://onlinelibrary.wiley.com/doi/abs/10.1002/jae.998) "From Temporary Help Jobs to Permanent Employment: What Can We Learn from Matching Estimators and their Sensitivity?," *Journal of Applied Econometrics*, 23(3):305-327.
->
->[**Imbens, G.W. (2003)**](https://www.aeaweb.org/articles?id=10.1257/000282803321946921) "Sensitivity to Exogeneity Assumptions in Program Evaluation," *American Economic Review*, 93(2):126-132.
->
->[**Manski, C.F. (1990)**](https://www.jstor.org/stable/2006592) "Nonparametric Bounds on Treatment Effects," *American Economic Review*, 80(2):319-323.
->
->[**Lin, D.Y., Psaty B.M., Kronmal, R.A. (1998)**](https://pubmed.ncbi.nlm.nih.gov/9750244/) "Assessing the Sensitivity of Regression Results to Unmeasured Confounders in Observational Studies," *Biometrics*, 54(3):948-963.
->
->[**Flanders, W.D., Khoury, M.J. (1990)**](https://journals.lww.com/epidem/abstract/1990/05000/indirect_assessment_of_confounding__graphic.10.aspx) "Indirect Assessment of Confounding: Graphic Description and Limits on Effect of Adjusting for Covariates," *Epidemiology*, 1(3):239-246.
->
->[**MacLehose, R.F., Kaufman, S., Kaufman, J.S., Poole, C. (2005)**](https://www.jstor.org/stable/20486093?seq=1) "Bounding Causal Effects Under Uncontrolled Confounding Using Counterfactuals," *Epidemiology*, 16(5):548-555.
->
 >[**Dorie, V., Harada, M., Carnegie, N.B., Hill, J. (2016)**](https://onlinelibrary.wiley.com/doi/10.1002/sim.6973) "A Flexible, Interpretable Framework for Assessing Sensitivity to Unmeasured Confounding," *Statistics in Medicine*, 35(20):3453-3470.
 >
->[**Franks, A.M., D'Amour, A., Feller, A. (2020)**](https://www.tandfonline.com/doi/full/10.1080/01621459.2019.1604369) "Flexible Sensitivity Analysis for Observational Studies Without Observable Implications," *Journal of the American Statistical Association*, 115(532):1730-1746.
+>[**VanderWeele, T.J., Ding, P. (2017)**](https://www.acpjournals.org/doi/10.7326/M16-2607) "Sensitivity Analysis in Observational Research: Introducing the E-value," *Annals of Internal Medicine*, 167(4):268-274.
 >
+>[**Franks, A.M., D'Amour, A., Feller, A. (2020)**](https://www.tandfonline.com/doi/full/10.1080/01621459.2019.1604369) "Flexible Sensitivity Analysis for Observational Studies Without Observable Implications," *Journal of the American Statistical Association*, 115(532):1730-1746.
+
 > ### Software
 >
 >[**R package causalsens**](https://cran.r-project.org/web/packages/causalsens/index.html) "Methods for Sensitivity Analysis in Causal Inference."
