@@ -1,6 +1,6 @@
 # Causal Machine Learning
 
-> Module 6 [**Slides**](https://drive.google.com/drive/folders/14Iymvk2FlZqVsWrtbDLmwSzR5aNS-Mcg?usp=sharing)
+> Module 6 [**Slides**](https://drive.google.com/file/d/1E2I7pKiBkpMw0SkGU6P0k7BakJKi-mnW/view?usp=sharing)
 
 > ## Textbook reading
 >
