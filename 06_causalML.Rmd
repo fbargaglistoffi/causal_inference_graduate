@@ -1,6 +1,13 @@
 # Causal Machine Learning
 
 > Module 6 [**Slides**](https://drive.google.com/file/d/1E2I7pKiBkpMw0SkGU6P0k7BakJKi-mnW/view?usp=sharing)
+>
+> Recording: [**Module 5, Part 1**](https://drive.google.com/file/d/1kcUHrOz1-rGKht4cadEZSP2pd3WDmmGl/view?usp=sharing)
+>
+> Recording: [**Module 5, Part 2.1**](https://drive.google.com/file/d/15WsCLs7U68iebSLZtqrCkzOTAb_arnR6/view?usp=sharing)
+>
+> Recording: [**Module 5, Part 2.2**](https://drive.google.com/file/d/1MTLdmnqvzaJ2sg9FZUqssbMArDTxOkYb/view?usp=sharing)
+>
 
 > ## Textbook reading
 >
