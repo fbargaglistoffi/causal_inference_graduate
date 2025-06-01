@@ -4,7 +4,7 @@
 
 > ## Textbook reading
 >
-> [**Hernán, M.A., Robins, J.M. (2020)**](https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/) "What If?" - Chapter 6
+> [**Hernán, M.A., Robins, J.M. (2020)**](https://static1.squarespace.com/static/675db8b0dd37046447128f5f/t/6835bdb7dc9e482163d8712d/1748352541538/hernanrobins_WhatIf_27may25.pdf) "What If?" - Chapter 6
 >
 > [**Pearl, J. (2009)**](http://bayes.cs.ucla.edu/BOOK-2K/) "Causality: Models, Reasoning, and Inference" - Chapters 2, 3
 >
@@ -14,4 +14,4 @@
 >
 > [**Cinelli, C., Forney, A., Pearl, J. (2022)**](https://ftp.cs.ucla.edu/pub/stat_ser/r493.pdf) "A Crash Course in Good and Bad Controls"
 >
-> [**Imbens, G.W. (2020)**](https://www.annualreviews.org/doi/10.1146/annurev-statistics-031219-041415) "Potential Outcome and Directed Acyclic Graph Approaches to Causality: Relevance for Empirical Practice in Economics"
+> [**Imbens, G.W. (2020)**](https://www.aeaweb.org/articles?id=10.1257/jel.20191597) "Potential Outcome and Directed Acyclic Graph Approaches to Causality: Relevance for Empirical Practice in Economics"
