@@ -4,4 +4,4 @@ observational-studies-design
 observational-studies-estimation
 observational-studies-sensitivity
 causal-machine-learning
-causal-inference-with-endogenous-treatment
+endogenous-treatments
