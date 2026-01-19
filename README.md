@@ -1,4 +1,4 @@
 
-### A Course In Causal Inference
+### A Graduate Course In Causal Inference
 
 
