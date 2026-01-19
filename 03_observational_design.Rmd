@@ -1,6 +1,7 @@
 # Observational Studies: Design
 
-> Module 3 [**Slides**](https://drive.google.com/file/d/1DRBGHomzyqAEBdx-bCdw5UWe3G0XTtl_/view?usp=sharing)
+> Module 3 [**Slides**](https://drive.google.com/file/d/1xfQIPmioyH6xYf_lngx8x4zHMD4Ti7XC/view?usp=sharing)
+<!--
 >
 > Recording: [**Module 3, Part 1**](https://drive.google.com/file/d/1JIokdkKeMtezUuf5XMPj2AplJKrooYPP/view?usp=sharing)
 >
@@ -15,7 +16,7 @@
 > Recording: [**Module 3, Part 4**](https://drive.google.com/file/d/1L5q7xC0lI65TqSqwDVDOzJoUW2hKjNfU/view?usp=sharing)
 >
 > Trivia: [**Module 3**](https://quizizz.com/admin/assessment/6807deffdbcd75ea826796bc?source=lesson_share)
-
+-->
 
 > ## Textbook reading
 >

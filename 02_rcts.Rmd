@@ -23,6 +23,8 @@
 > [**Chapters 3,4, 12 of Gerber and Green (2012)**](https://wwnorton.com/books/9780393979954) 
 >
 > [**Chapters 3 -- 9 of Ding (2023)**](https://www.routledge.com/A-First-Course-in-Causal-Inference/Ding/p/book/9781032758626)
+>
+> [**Chapters 1 of Wager (2025)**](https://web.stanford.edu/~swager/causal_inf_book.pdf)
 
 
 > ### Additional Readings

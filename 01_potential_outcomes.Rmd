@@ -19,8 +19,6 @@
 > [**Chapters 1 -- 3 of Imbens and Rubin (2015)**](https://www.cambridge.org/core/books/causal-inference-for-statistics-social-and-biomedical-sciences/71126BE90C58F1A431FE9B2DD07938AB)
 >
 > [**Chapters 1--2 of Ding (2023)**](https://www.routledge.com/A-First-Course-in-Causal-Inference/Ding/p/book/9781032758626)
->
-> [**Chapters 1 of Wager (2025)**](https://web.stanford.edu/~swager/causal_inf_book.pdf)
 
 > ### Review papers on the Potential Outcomes approach
 >
