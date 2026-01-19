@@ -1,6 +1,7 @@
 # Causal Machine Learning
 
-> Module 6 [**Slides**](https://drive.google.com/file/d/1E2I7pKiBkpMw0SkGU6P0k7BakJKi-mnW/view?usp=sharing)
+> Module 6 [**Slides**](https://drive.google.com/file/d/1XVG059pxE0QKLj62KuDhUH-fR_sUJhO_/view?usp=sharing)
+<!--
 >
 > Recording: [**Module 6, Part 1**](https://drive.google.com/file/d/1kcUHrOz1-rGKht4cadEZSP2pd3WDmmGl/view?usp=sharing)
 >
@@ -13,6 +14,7 @@
 > Trivia: [**Module 6 (Part 1)**](https://quizizz.com/admin/assessment/683608997dd23dfc94bdfcf0?source=lesson_share)
 >
 > Trivia: [**Module 6 (Part 2)**](https://quizizz.com/admin/assessment/683f47e53740abec435037af?source=lesson_share)
+-->
 
 > ## Textbook reading
 >
