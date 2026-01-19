@@ -1,7 +1,111 @@
 # Endogenous Treatments
 
-> Module 7 [**Slides**](https://drive.google.com/file/d/1e8hwUwcVOFKSwDdjjb8KDS_3EeoXTNG4/view?usp=sharing)
+> Module 7 [**Slides**](https://drive.google.com/file/d/1zSuxspBhkaYJzdVddDtpyEy3vOn_fiLI/view?usp=sharing)
+<!--
+>
+> Recording: [**Module 7, Part 1**](https://drive.google.com/file/d/XXXXXXX/view?usp=sharing)
+>
+> Recording: [**Module 7, Part 2**](https://drive.google.com/file/d/XXXXXXX/view?usp=sharing)
+>
+> Recording: [**Module 7, Part 3**](https://drive.google.com/file/d/XXXXXXX/view?usp=sharing)
+>
+> Trivia: [**Module 7 (Part 1)**](https://quizizz.com/admin/assessment/XXXXXXX?source=lesson_share)
+>
+> Trivia: [**Module 7 (Part 2)**](https://quizizz.com/admin/assessment/XXXXXXX?source=lesson_share)
+-->
 
 > ## Textbook reading
 >
-> [**Chapters 23 -- 25 of Imbens and Rubin (2015)**](https://www.cambridge.org/core/books/causal-inference-for-statistics-social-and-biomedical-sciences/71126BE90C58F1A431FE9B2DD07938AB)
+> [**Imbens, G.W., Rubin, D.B. (2015)**](https://www.cambridge.org/core/books/causal-inference-for-statistics-social-and-biomedical-sciences/71126BE90C58F1A431FE9B2DD07938AB) *Causal Inference for Statistics, Social, and Biomedical Sciences: An Introduction*, Chapters 23-25 (Instrumental Variables).
+>
+> [**Angrist, J.D., Pischke, J.S. (2009)**](https://press.princeton.edu/books/paperback/9780691120355/mostly-harmless-econometrics) *Mostly Harmless Econometrics*, Chapter 4 (Instrumental Variables in Action).
+>
+> [**Pearl, J. (2009)**](https://www.cambridge.org/core/books/causality/B0046844FAE10CBF274D4ACBDAEB5F5B) *Causality: Models, Reasoning, and Inference*, 2nd Edition, Chapters 3-4.
+
+> ### Additional Readings
+>
+> #### Instrumental Variables and LATE
+>
+>[**Angrist, J.D., Imbens, G.W., Rubin, D.B. (1996)**](https://www.jstor.org/stable/2291629) "Identification of Causal Effects Using Instrumental Variables," *Journal of the American Statistical Association*, 91(434):444-455.
+>
+>[**Imbens, G.W., Angrist, J.D. (1994)**](https://www.jstor.org/stable/2951620) "Identification and Estimation of Local Average Treatment Effects," *Econometrica*, 62(2):467-475.
+>
+>[**Imbens, G.W. (2014)**](https://projecteuclid.org/journals/statistical-science/volume-29/issue-3/Instrumental-Variables-An-Econometricians-Perspective/10.1214/14-STS480.full) "Instrumental Variables: An Econometrician's Perspective," *Statistical Science*, 29(3):323-358.
+>
+>[**Imbens, G.W., Rubin, D.B. (1997)**](https://projecteuclid.org/journals/annals-of-statistics/volume-25/issue-1/Bayesian-inference-for-causal-effects-in-randomized-experiments-with-noncompliance/10.1214/aos/1034276631.full) "Bayesian Inference for Causal Effects in Randomized Experiments with Noncompliance," *Annals of Statistics*, 25(1):305-327.
+>
+> #### Weak Instruments and Partial Identification
+>
+>[**Bound, J., Jaeger, D.A., Baker, R.M. (1995)**](https://www.jstor.org/stable/2291055) "Problems with Instrumental Variables Estimation When the Correlation Between the Instruments and the Endogenous Explanatory Variable is Weak," *Journal of the American Statistical Association*, 90(430):443-450.
+>
+>[**Stock, J.H., Yogo, M. (2005)**](https://www.cambridge.org/core/books/abs/identification-and-inference-for-econometric-models/testing-for-weak-instruments-in-linear-iv-regression/4A7CAFABCBE7B8F2B3B29D4D2C72B30A) "Testing for Weak Instruments in Linear IV Regression," in *Identification and Inference for Econometric Models*.
+>
+>[**Kitagawa, T. (2015)**](https://onlinelibrary.wiley.com/doi/abs/10.3982/ECTA11974) "A Test for Instrument Validity," *Econometrica*, 83(5):2043-2063.
+>
+>[**Huber, M., Mellace, G. (2015)**](https://direct.mit.edu/rest/article-abstract/97/2/398/58244/Testing-Instrument-Validity-for-LATE-Identification) "Testing Instrument Validity for LATE Identification Based on Inequality Moment Constraints," *Review of Economics and Statistics*, 97(2):398-411.
+>
+> #### Principal Stratification
+>
+>[**Frangakis, C.E., Rubin, D.B. (2002)**](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.0006-341X.2002.00021.x) "Principal Stratification in Causal Inference," *Biometrics*, 58(1):21-29.
+>
+>[**Zhang, J.L., Rubin, D.B. (2003)**](https://journals.sagepub.com/doi/10.3102/10769986028004353) "Estimation of Causal Effects via Principal Stratification When Some Outcomes are Truncated by 'Death'," *Journal of Educational and Behavioral Statistics*, 28(4):353-368.
+>
+>[**Jo, B., Stuart, E.A. (2009)**](https://onlinelibrary.wiley.com/doi/abs/10.1002/sim.3697) "On the Use of Propensity Scores in Principal Causal Effect Estimation," *Statistics in Medicine*, 28(23):2857-2875.
+>
+>[**Mealli, F., Pacini, B. (2013)**](https://www.tandfonline.com/doi/abs/10.1080/01621459.2013.802238) "Using Secondary Outcomes to Sharpen Inference in Randomized Experiments with Noncompliance," *Journal of the American Statistical Association*, 108(503):1120-1131.
+>
+>[**Mattei, A., Mealli, F., Pacini, B. (2014)**](https://onlinelibrary.wiley.com/doi/abs/10.1111/rssb.12027) "Identification of Causal Effects in the Presence of Nonignorable Missing Outcome Values," *Biometrics*, 70(2):278-288.
+>
+> #### Mediation Analysis
+>
+>[**Robins, J.M., Greenland, S. (1992)**](https://journals.lww.com/epidem/abstract/1992/03000/identifiability_and_exchangeability_for_direct_and.13.aspx) "Identifiability and Exchangeability for Direct and Indirect Effects," *Epidemiology*, 3(2):143-155.
+>
+>[**Pearl, J. (2001)**](https://ftp.cs.ucla.edu/pub/stat_ser/R273-U.pdf) "Direct and Indirect Effects," *Proceedings of the 17th Conference on Uncertainty in Artificial Intelligence*, 411-420.
+>
+>[**Imai, K., Keele, L., Yamamoto, T. (2010)**](https://projecteuclid.org/journals/statistical-science/volume-25/issue-1/Identification-Inference-and-Sensitivity-Analysis-for-Causal-Mediation-Effects/10.1214/10-STS321.full) "Identification, Inference and Sensitivity Analysis for Causal Mediation Effects," *Statistical Science*, 25(1):51-71.
+>
+>[**VanderWeele, T.J. (2015)**](https://global.oup.com/academic/product/explanation-in-causal-inference-9780199325870) *Explanation in Causal Inference: Methods for Mediation and Interaction*, Oxford University Press.
+>
+> #### Structural Equation Models
+>
+>[**Pearl, J. (2009)**](https://www.cambridge.org/core/books/causality/B0046844FAE10CBF274D4ACBDAEB5F5B) *Causality: Models, Reasoning, and Inference*, 2nd Edition, Cambridge University Press.
+>
+>[**Bollen, K.A., Pearl, J. (2013)**](https://link.springer.com/chapter/10.1007/978-94-007-6094-3_15) "Eight Myths About Causality and Structural Equation Models," in *Handbook of Causal Analysis for Social Research*.
+
+> ### Software 
+>
+> #### R Packages
+>
+>[**AER: Applied Econometrics with R**](https://cran.r-project.org/web/packages/AER/index.html) Comprehensive package for 2SLS estimation, IV diagnostics, and weak instrument tests.
+>
+>[**ivpack: Instrumental Variable Estimation**](https://cran.r-project.org/web/packages/ivpack/index.html) Tools for IV analysis including Anderson-Rubin confidence intervals for weak instruments.
+>
+>[**ivreg: Instrumental Variables Regression**](https://cran.r-project.org/web/packages/ivreg/index.html) Modern implementation of 2SLS with robust standard errors and diagnostics.
+>
+>[**mediation: Causal Mediation Analysis**](https://cran.r-project.org/web/packages/mediation/index.html) R package implementing methods from Imai, Keele, and Yamamoto (2010) for mediation analysis.
+>
+>[**dagitty: Graphical Analysis of Structural Causal Models**](https://cran.r-project.org/web/packages/dagitty/index.html) Tools for analyzing DAGs, finding adjustment sets, and testing instrumental variable assumptions.
+>
+>[**ggdag: Visualize DAGs**](https://cran.r-project.org/web/packages/ggdag/index.html) ggplot2 extension for visualizing and analyzing directed acyclic graphs.
+>
+>[**grf: Generalized Random Forests**](https://github.com/grf-labs/grf) Includes `instrumental_forest()` for IV estimation with heterogeneous effects.
+>
+> #### Stata Commands
+>
+>[**ivregress**](https://www.stata.com/manuals/rivregress.pdf) Built-in Stata command for 2SLS, LIML, and GMM IV estimation.
+>
+>[**weakiv**](https://ideas.repec.org/c/boc/bocode/s457684.html) Weak instrument robust inference including Anderson-Rubin and conditional likelihood ratio tests.
+>
+>[**ivreg2**](https://ideas.repec.org/c/boc/bocode/s425401.html) Extended IV/2SLS with additional diagnostics, robust standard errors, and GMM estimation.
+>
+>[**medeff**](https://ideas.repec.org/c/boc/bocode/s457301.html) Causal mediation analysis following Imai, Keele, and Yamamoto methodology.
+>
+> #### Python Packages
+>
+>[**linearmodels**](https://github.com/bashtage/linearmodels) IV estimation (2SLS, LIML, GMM) with panel data support and robust inference.
+>
+>[**DoWhy**](https://github.com/py-why/dowhy) Microsoft's causal inference library with DAG-based identification, IV estimation, and sensitivity analysis.
+>
+>[**econml**](https://github.com/microsoft/EconML) Includes `DMLIV` and `OrthoIV` for doubly robust IV estimation with machine learning.
+>
+>[**CausalNex**](https://github.com/quantumblacklabs/causalnex) Bayesian network structure learning and causal inference with DAGs.
