@@ -19,15 +19,15 @@ This is the website for the graduate course in Causal Inference (Biostat M235) a
 
 Instructor: [Falco J. Bargagli-Stoffi](https://www.falcobargaglistoffi.com/).
 
-Teaching assistant:
+Teaching assistant: TBD
 
-Each course module in the left panel will span several lectures. We will build this website over the course of the quarter, uploading lecture slides as we go.
+Each course module in the left panel will span several lectures. We will build this website over the course of the quarter, uploading course materials (e.g., finalized slides, assignments, additional readings) as we go.
 
 ## Learning objectives {-}
 
 > [**Syllabus**](https://drive.google.com/file/d/1ca24sjKu307y0hSZwuzfxLcQSA_OjiWl/view?usp=sharing)
 
-The course aims to introduce the key concepts and state-of-the-art methods for causal inference from randomized experiments and observational studies. We will first introduce the basic concepts of the potential outcome framework (with a particular focus on the essential role of the treatment assignment mechanism) and the causal graphical model approach. Then, we will cover different situations corresponding to different assumptions concerning the assignment mechanism. We will discuss the design and analysis of experiments and how to make inference under different modes, including design (randomization)-based, frequentist, and Bayesian. We will cover the design and analysis of observational studies with regular assignment mechanisms where the unconfoundedness assumption is assumed to hold. We will introduce methods and sensitivity analyses to account for possible violations of unconfoundedness. Finally, we will cover heterogeneous treatment effects, and causal machine learning approaches to causal heterogeneity.
+The course aims to introduce the key concepts and state-of-the-art methods for causal inference from randomized experiments and observational studies. We will first introduce the basic concepts of the potential outcome framework (with a particular focus on the essential role of the treatment assignment mechanism). Then, we will cover different situations corresponding to different assumptions concerning the assignment mechanism. We will discuss the design and analysis of experiments and how to make inference under different modes, including design (randomization)-based, frequentist, and Bayesian. We will cover the design and analysis of observational studies with regular assignment mechanisms where the unconfoundedness assumption is assumed to hold. We will introduce methods and sensitivity analyses to account for possible violations of unconfoundedness.  We will cover strategies for causal inference in the presence of non-randomized, endogenous treatments. Finally, we will cover the causal machine learning approaches.
 
 ## Teaching Material {-}
 
@@ -37,11 +37,11 @@ Selected chapters from the book list below. Articles in (bio)statistical and eco
 >
 > Ding, P. 2023. [**A First Course in Causal Inference**](https://www.routledge.com/A-First-Course-in-Causal-Inference/Ding/p/book/9781032758626) New York: Routledge.
 >
-> Pearl, J. 2009. [**Causality**](https://www.cambridge.org/core/books/causality/B0046844FAE10CBF274D4ACBDAEB5F5B) Cambridge: Cambridge University Press.
+> Wager, S. 2025. [**Causal Inference: A Statistical Learning Approach**](https://web.stanford.edu/~swager/causal_inf_book.pdf) Available online.
 
 ## Assignments {-}
 
-> [**Assignment 1 - Due Monday April 14th, 4 pm**](https://drive.google.com/file/d/12n_eWn3Rwt4GU8C84YOa5DPt_kScKdtJ/view?usp=sharing) 
+<!-- > [**Assignment 1 - Due Monday April 14th, 4 pm**](https://drive.google.com/file/d/12n_eWn3Rwt4GU8C84YOa5DPt_kScKdtJ/view?usp=sharing) 
 >
 > [**Assignment 1 - Solutions**](https://drive.google.com/file/d/1csBEyRnULIJItprxH-bSjl1A74oi6hLG/view?usp=sharing)
 
@@ -51,23 +51,17 @@ Selected chapters from the book list below. Articles in (bio)statistical and eco
 
 > [**Assignment 3 - Due Monday May 19, 4 pm**](https://drive.google.com/file/d/1t2aVQwA7-GGK_vpCjmATT_Rn70O3VBXO/view?usp=sharing)
 >
-> [**Data for Assignment 3**](https://drive.google.com/file/d/1v5OAe4cPctnUY9pFUis6hPftTBBryd8q/view?usp=sharing) 
+> [**Data for Assignment 3**](https://drive.google.com/file/d/1v5OAe4cPctnUY9pFUis6hPftTBBryd8q/view?usp=sharing) -->
 
 ## Office Hours {-} 
 
 Falco: 3 hours per week (course, final project):
 
-- Monday: 2:45pm to 3:45pm at room 56-070 CHS (no appointment needed).
+- Tuesday and Fridays: 5:00pm to 6:00pm (no appointment needed)
 
-- Thursdays and Fridays: 3:00pm to 4:00pm via appoitnment: [book here](https://calendar.app.google/4z3TkVoczhYd5Xqz6).
+TA: 3 hours a week (assignments, grading):
 
-Kelsey: 3 hours a week (assignments, grading):
-
-- Wednesdays: 11:30am to 12:30pm via [Zoom](https://ucla.zoom.us/j/97560482102) (no appointment needed).
-
-- Tuesdays: 11:00am to 12:00pm
- 
-- Fridays: 11:30am to 12:30pm
+- TBD
 
 ## Acknowledgments {-}
 
