@@ -1,7 +1,7 @@
 --- 
 # title: "Causal Inference Graduate Course"
 # author: "Falco J. Bargagli-Stoffi"
-# date: "`April 2025`"
+# date: "`April 2026`"
 site: bookdown::bookdown_site
 documentclass: book
 # bibliography: [book.bib, packages.bib]
@@ -19,7 +19,7 @@ This is the website for the graduate course in Causal Inference (Biostat M235) a
 
 Instructor: [Falco J. Bargagli-Stoffi](https://www.falcobargaglistoffi.com/).
 
-Teaching assistant: [Kelsey Ishimoto](https://cch.ucla.edu/people/kelsey-ishimoto/).
+Teaching assistant:
 
 Each course module in the left panel will span several lectures. We will build this website over the course of the quarter, uploading lecture slides as we go.
 
@@ -71,6 +71,6 @@ Kelsey: 3 hours a week (assignments, grading):
 
 ## Acknowledgments {-}
 
-Special thanks to Prof. [Fabrizia Mealli](https://sites.google.com/unifi.it/fabriziamealli) and Prof. [Davide Viviano](https://dviviano.github.io/) for their invaluable help in preparing this course.
+Special thanks to Prof. [Fabrizia Mealli](https://sites.google.com/unifi.it/fabriziamealli) and Prof. [Davide Viviano](https://dviviano.github.io/) for their invaluable help in preparing this course. Special thanks to [Kelsey Ishimoto](https://cch.ucla.edu/people/kelsey-ishimoto/) for great teaching assistanship in the 2025 class.
 
 
