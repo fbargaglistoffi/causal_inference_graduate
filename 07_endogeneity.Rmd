@@ -38,11 +38,11 @@
 >
 >[**Bound, J., Jaeger, D.A., Baker, R.M. (1995)**](https://www.jstor.org/stable/2291055) "Problems with Instrumental Variables Estimation When the Correlation Between the Instruments and the Endogenous Explanatory Variable is Weak," *Journal of the American Statistical Association*, 90(430):443-450.
 >
->[**Stock, J.H., Yogo, M. (2005)**](https://www.cambridge.org/core/books/abs/identification-and-inference-for-econometric-models/testing-for-weak-instruments-in-linear-iv-regression/4A7CAFABCBE7B8F2B3B29D4D2C72B30A) "Testing for Weak Instruments in Linear IV Regression," in *Identification and Inference for Econometric Models*.
+>[**Stock, J.H., Yogo, M. (2005)**](https://www.cambridge.org/core/books/abs/identification-and-inference-for-econometric-models/testing-for-weak-instruments-in-linear-iv-regression/8AD94FF2EFD214D05D75EE35015021E4) "Testing for Weak Instruments in Linear IV Regression," in *Identification and Inference for Econometric Models*.
 >
 >[**Kitagawa, T. (2015)**](https://onlinelibrary.wiley.com/doi/abs/10.3982/ECTA11974) "A Test for Instrument Validity," *Econometrica*, 83(5):2043-2063.
 >
->[**Huber, M., Mellace, G. (2015)**](https://direct.mit.edu/rest/article-abstract/97/2/398/58244/Testing-Instrument-Validity-for-LATE-Identification) "Testing Instrument Validity for LATE Identification Based on Inequality Moment Constraints," *Review of Economics and Statistics*, 97(2):398-411.
+>[**Huber, M., Mellace, G. (2015)**](https://direct.mit.edu/rest/article-abstract/97/2/398/58220/Testing-Instrument-Validity-for-LATE?redirectedFrom=fulltext) "Testing Instrument Validity for LATE Identification Based on Inequality Moment Constraints," *Review of Economics and Statistics*, 97(2):398-411.
 >
 > #### Principal Stratification
 >
@@ -50,11 +50,11 @@
 >
 >[**Zhang, J.L., Rubin, D.B. (2003)**](https://journals.sagepub.com/doi/10.3102/10769986028004353) "Estimation of Causal Effects via Principal Stratification When Some Outcomes are Truncated by 'Death'," *Journal of Educational and Behavioral Statistics*, 28(4):353-368.
 >
->[**Jo, B., Stuart, E.A. (2009)**](https://onlinelibrary.wiley.com/doi/abs/10.1002/sim.3697) "On the Use of Propensity Scores in Principal Causal Effect Estimation," *Statistics in Medicine*, 28(23):2857-2875.
+>[**Jo, B., Stuart, E.A. (2009)**](https://pmc.ncbi.nlm.nih.gov/articles/PMC2757143/) "On the Use of Propensity Scores in Principal Causal Effect Estimation," *Statistics in Medicine*, 28(23):2857-2875.
 >
 >[**Mealli, F., Pacini, B. (2013)**](https://www.tandfonline.com/doi/abs/10.1080/01621459.2013.802238) "Using Secondary Outcomes to Sharpen Inference in Randomized Experiments with Noncompliance," *Journal of the American Statistical Association*, 108(503):1120-1131.
 >
->[**Mattei, A., Mealli, F., Pacini, B. (2014)**](https://onlinelibrary.wiley.com/doi/abs/10.1111/rssb.12027) "Identification of Causal Effects in the Presence of Nonignorable Missing Outcome Values," *Biometrics*, 70(2):278-288.
+>[**Mattei, A., Mealli, F., Pacini, B. (2014)**](https://pubmed.ncbi.nlm.nih.gov/24447366/) "Identification of Causal Effects in the Presence of Nonignorable Missing Outcome Values," *Biometrics*, 70(2):278-288.
 >
 > #### Mediation Analysis
 >
@@ -89,16 +89,6 @@
 >[**ggdag: Visualize DAGs**](https://cran.r-project.org/web/packages/ggdag/index.html) ggplot2 extension for visualizing and analyzing directed acyclic graphs.
 >
 >[**grf: Generalized Random Forests**](https://github.com/grf-labs/grf) Includes `instrumental_forest()` for IV estimation with heterogeneous effects.
->
-> #### Stata Commands
->
->[**ivregress**](https://www.stata.com/manuals/rivregress.pdf) Built-in Stata command for 2SLS, LIML, and GMM IV estimation.
->
->[**weakiv**](https://ideas.repec.org/c/boc/bocode/s457684.html) Weak instrument robust inference including Anderson-Rubin and conditional likelihood ratio tests.
->
->[**ivreg2**](https://ideas.repec.org/c/boc/bocode/s425401.html) Extended IV/2SLS with additional diagnostics, robust standard errors, and GMM estimation.
->
->[**medeff**](https://ideas.repec.org/c/boc/bocode/s457301.html) Causal mediation analysis following Imai, Keele, and Yamamoto methodology.
 >
 > #### Python Packages
 >
