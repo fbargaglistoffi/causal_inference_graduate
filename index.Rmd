@@ -41,7 +41,8 @@ Selected chapters from the book list below. Articles in (bio)statistical and eco
 
 ## Assignments {-}
 
-<!-- > [**Assignment 1 - Due Monday April 14th, 4 pm**](https://drive.google.com/file/d/12n_eWn3Rwt4GU8C84YOa5DPt_kScKdtJ/view?usp=sharing) 
+<!-- 
+> [**Assignment 1 - Due Monday April 14th, 4 pm**](https://drive.google.com/file/d/12n_eWn3Rwt4GU8C84YOa5DPt_kScKdtJ/view?usp=sharing) 
 >
 > [**Assignment 1 - Solutions**](https://drive.google.com/file/d/1csBEyRnULIJItprxH-bSjl1A74oi6hLG/view?usp=sharing)
 
@@ -51,7 +52,8 @@ Selected chapters from the book list below. Articles in (bio)statistical and eco
 
 > [**Assignment 3 - Due Monday May 19, 4 pm**](https://drive.google.com/file/d/1t2aVQwA7-GGK_vpCjmATT_Rn70O3VBXO/view?usp=sharing)
 >
-> [**Data for Assignment 3**](https://drive.google.com/file/d/1v5OAe4cPctnUY9pFUis6hPftTBBryd8q/view?usp=sharing) -->
+> [**Data for Assignment 3**](https://drive.google.com/file/d/1v5OAe4cPctnUY9pFUis6hPftTBBryd8q/view?usp=sharing) 
+-->
 
 ## Office Hours {-} 
 

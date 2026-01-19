@@ -1,4 +1,4 @@
-# Causal Inference with Endogenous Treatment
+# Endogenous Treatments
 
 > Module 7 [**Slides**](https://drive.google.com/file/d/1e8hwUwcVOFKSwDdjjb8KDS_3EeoXTNG4/view?usp=sharing)
 
