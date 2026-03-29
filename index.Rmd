@@ -19,7 +19,7 @@ This is the website for the graduate course in Causal Inference (Biostat M235) a
 
 Instructor: [Falco J. Bargagli-Stoffi](https://www.falcobargaglistoffi.com/).
 
-Teaching assistant: TBD
+Teaching assistant: [Darren Lin](https://darrenlingit.github.io/)
 
 Each course module in the left panel will span several lectures. We will build this website over the course of the quarter, uploading course materials (e.g., finalized slides, assignments, additional readings) as we go.
 
